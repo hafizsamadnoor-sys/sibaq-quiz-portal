@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^4.19.2"},"description":"SIBAQ '26 Quiz Portal — Noorul Huda Islamic Academy (Express + node:sqlite)","engines":{"node":">=22"},"main":"server.js","name":"sibaq-quiz-portal","scripts":{"start":"node server.js","test":"node test.js"},"version":"1.0.0"}

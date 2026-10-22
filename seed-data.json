@@ -1,0 +1,4950 @@
+{
+ "generated_from": [
+  "SIBAQ26_BNS30_GK_Quiz_Sheet.pdf",
+  "islamic-history-200-questions.pdf"
+ ],
+ "bank": [
+  {
+   "source": "GK",
+   "number": 1,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "What is the capital of India?",
+   "answer": "New Delhi",
+   "options": [
+    "206",
+    "366",
+    "Greenland",
+    "New Delhi"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 2,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "How many continents are there in the world?",
+   "answer": "7",
+   "options": [
+    "Blue Whale",
+    "7",
+    "Diamond",
+    "100°C"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 3,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which is the largest ocean in the world?",
+   "answer": "Pacific Ocean",
+   "options": [
+    "Pacific Ocean",
+    "206",
+    "Vitamin D",
+    "Mount Everest"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 4,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which planet is known as the Red Planet?",
+   "answer": "Mars",
+   "options": [
+    "Lotus",
+    "Mitochondria",
+    "Mars",
+    "Diwali"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 5,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "What is the national animal of India?",
+   "answer": "Bengal Tiger",
+   "options": [
+    "Bengal Tiger",
+    "Nile",
+    "Diwali",
+    "Sahara Desert"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 6,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which is the longest river in the world?",
+   "answer": "Nile",
+   "options": [
+    "Cairo",
+    "Cricket",
+    "Blue Whale",
+    "Nile"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 7,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "What is H2O commonly known as?",
+   "answer": "Water",
+   "options": [
+    "Indian Peacock",
+    "Water",
+    "Vitamin D",
+    "Brasilia"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 8,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "How many days are there in a leap year?",
+   "answer": "366",
+   "options": [
+    "366",
+    "Water",
+    "Bengal Tiger",
+    "Japan"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 9,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which is the tallest mountain in the world?",
+   "answer": "Mount Everest",
+   "options": [
+    "Thermometer",
+    "Mitochondria",
+    "Mount Everest",
+    "Equator"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 10,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "What is the currency of Japan?",
+   "answer": "Yen",
+   "options": [
+    "Yen",
+    "Carbon dioxide",
+    "Brasilia",
+    "Diwali"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 11,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which gas do plants absorb for photosynthesis?",
+   "answer": "Carbon dioxide",
+   "options": [
+    "Brasilia",
+    "Nile",
+    "Carbon dioxide",
+    "Yen"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 12,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "How many bones are there in an adult human body?",
+   "answer": "206",
+   "options": [
+    "Pacific Ocean",
+    "Diamond",
+    "206",
+    "100°C"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 13,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which is the fastest land animal?",
+   "answer": "Cheetah",
+   "options": [
+    "Cheetah",
+    "11",
+    "Mars",
+    "Water"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 14,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which is the largest mammal in the world?",
+   "answer": "Blue Whale",
+   "options": [
+    "Yen",
+    "Blue Whale",
+    "Paris",
+    "Pacific Ocean"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 15,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "What is the boiling point of water?",
+   "answer": "100°C",
+   "options": [
+    "Pacific Ocean",
+    "11",
+    "New Delhi",
+    "100°C"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 16,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which instrument is used to measure temperature?",
+   "answer": "Thermometer",
+   "options": [
+    "Water",
+    "Cricket",
+    "General Knowledge",
+    "Thermometer"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 17,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "What is the national bird of India?",
+   "answer": "Indian Peacock",
+   "options": [
+    "Indian Peacock",
+    "Thermometer",
+    "Cairo",
+    "Carbon dioxide"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 18,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which city is known as the Silicon Valley of India?",
+   "answer": "Bengaluru",
+   "options": [
+    "Bengaluru",
+    "Cricket",
+    "Vitamin D",
+    "Diamond"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 19,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which is the smallest continent in the world?",
+   "answer": "Australia",
+   "options": [
+    "Bengaluru",
+    "Australia",
+    "Paris",
+    "Diwali"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 20,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which line divides the Earth into Northern and Southern Hemispheres?",
+   "answer": "Equator",
+   "options": [
+    "Equator",
+    "7",
+    "Pacific Ocean",
+    "Thermometer"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 21,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "What is the chemical symbol for gold?",
+   "answer": "Au",
+   "options": [
+    "Diwali",
+    "Water",
+    "Au",
+    "Nile"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 22,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which vitamin is obtained from sunlight?",
+   "answer": "Vitamin D",
+   "options": [
+    "Vitamin D",
+    "Japan",
+    "Cheetah",
+    "Cricket"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 23,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which is the largest desert in the world?",
+   "answer": "Sahara Desert",
+   "options": [
+    "Sahara Desert",
+    "Brasilia",
+    "Paris",
+    "100°C"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 24,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "What is the capital of France?",
+   "answer": "Paris",
+   "options": [
+    "Blue Whale",
+    "11",
+    "Paris",
+    "Cricket"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 25,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which country is known as the Land of the Rising Sun?",
+   "answer": "Japan",
+   "options": [
+    "New Delhi",
+    "Japan",
+    "Australia",
+    "11"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 26,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "How many players are there in a cricket team?",
+   "answer": "11",
+   "options": [
+    "11",
+    "Cheetah",
+    "Australia",
+    "Thermometer"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 27,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "In which game is the term LBW used?",
+   "answer": "Cricket",
+   "options": [
+    "Nile",
+    "Bengaluru",
+    "Cricket",
+    "Bengal Tiger"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 28,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "What is the national flower of India?",
+   "answer": "Lotus",
+   "options": [
+    "Indian Peacock",
+    "Yen",
+    "Pacific Ocean",
+    "Lotus"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 29,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "What is the powerhouse of the cell?",
+   "answer": "Mitochondria",
+   "options": [
+    "Water",
+    "Brasilia",
+    "Mitochondria",
+    "Carbon dioxide"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 30,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which is the largest island in the world?",
+   "answer": "Greenland",
+   "options": [
+    "Mars",
+    "Mount Everest",
+    "Greenland",
+    "Blue Whale"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 31,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "What is the capital of Egypt?",
+   "answer": "Cairo",
+   "options": [
+    "Sahara Desert",
+    "General Knowledge",
+    "Cairo",
+    "Indian Peacock"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 32,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "What is the capital of Brazil?",
+   "answer": "Brasilia",
+   "options": [
+    "Brasilia",
+    "100°C",
+    "Nile",
+    "Paris"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 33,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which festival is known as the festival of lights?",
+   "answer": "Diwali",
+   "options": [
+    "Mitochondria",
+    "Thermometer",
+    "Diwali",
+    "Lotus"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 34,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "What does GK stand for?",
+   "answer": "General Knowledge",
+   "options": [
+    "Sahara Desert",
+    "General Knowledge",
+    "Carbon dioxide",
+    "Equator"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 35,
+   "section": "General Knowledge",
+   "category": "General Knowledge",
+   "level": "Bidaya",
+   "question": "Which is the hardest natural substance on Earth?",
+   "answer": "Diamond",
+   "options": [
+    "Diamond",
+    "Pacific Ocean",
+    "206",
+    "Diwali"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 36,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What is the holy book of Islam?",
+   "answer": "Quran",
+   "options": [
+    "Muharram",
+    "Madinah",
+    "Quran",
+    "Laylatul Qadr"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 37,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "How many Surahs are there in the Quran?",
+   "answer": "114",
+   "options": [
+    "7",
+    "114",
+    "Muharram",
+    "Uthman (RA)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 38,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which is the first Surah of the Quran?",
+   "answer": "Al-Fatiha",
+   "options": [
+    "Muharram",
+    "Al-Baqarah",
+    "2 AH",
+    "Al-Fatiha"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 39,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which is the longest Surah of the Quran?",
+   "answer": "Al-Baqarah",
+   "options": [
+    "Umar ibn Al-Khattab (RA)",
+    "Uthman (RA)",
+    "Eid al-Fitr",
+    "Al-Baqarah"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 40,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which month do Muslims fast?",
+   "answer": "Ramadan",
+   "options": [
+    "Ramadan",
+    "Battle of Badr",
+    "Uthman (RA)",
+    "114"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 41,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "How many pillars of Islam are there?",
+   "answer": "5",
+   "options": [
+    "Eid al-Fitr",
+    "5",
+    "Qibla",
+    "Muharram"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 42,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which city is the birthplace of Prophet Muhammad (SAW)?",
+   "answer": "Makkah",
+   "options": [
+    "Makkah",
+    "Hajj",
+    "7",
+    "5"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 43,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "To which city did the Prophet (SAW) migrate (Hijrah)?",
+   "answer": "Madinah",
+   "options": [
+    "Madinah",
+    "Umar ibn Al-Khattab (RA)",
+    "Laylatul Qadr",
+    "7"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 44,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What is the direction Muslims face while praying called?",
+   "answer": "Qibla",
+   "options": [
+    "Qibla",
+    "Makkah",
+    "Hamza (RA)",
+    "Obligatory charity, one of the five pillars"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 45,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which is the first month of the Islamic calendar?",
+   "answer": "Muharram",
+   "options": [
+    "Muharram",
+    "Eid al-Fitr",
+    "Hira",
+    "Aisha (RA)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 46,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which night is better than a thousand months?",
+   "answer": "Laylatul Qadr",
+   "options": [
+    "Qibla",
+    "Obligatory charity, one of the five pillars",
+    "Aisha (RA)",
+    "Laylatul Qadr"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 47,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the first Caliph of Islam?",
+   "answer": "Abu Bakr (RA)",
+   "options": [
+    "Makkah",
+    "Battle of Badr",
+    "Abu Bakr (RA)",
+    "Madinah"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 48,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the second Caliph of Islam?",
+   "answer": "Umar ibn Al-Khattab (RA)",
+   "options": [
+    "Abu Bakr (RA)",
+    "Ramadan",
+    "Umar ibn Al-Khattab (RA)",
+    "2 AH"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 49,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which battle did the Muslims win their first major victory?",
+   "answer": "Battle of Badr",
+   "options": [
+    "Makkah",
+    "Battle of Badr",
+    "Qibla",
+    "Quran"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 50,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "The Battle of Badr took place in which year of Hijrah?",
+   "answer": "2 AH",
+   "options": [
+    "Qibla",
+    "Al-Baqarah",
+    "Hamza (RA)",
+    "2 AH"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 51,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which uncle of the Prophet (SAW) was martyred at Uhud?",
+   "answer": "Hamza (RA)",
+   "options": [
+    "5",
+    "Eid al-Fitr",
+    "Hamza (RA)",
+    "Quran"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 52,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What is the pilgrimage to Makkah called?",
+   "answer": "Hajj",
+   "options": [
+    "Hajj",
+    "7",
+    "Aisha (RA)",
+    "Al-Fatiha"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 53,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "How many times do pilgrims circle the Kaaba during Tawaf?",
+   "answer": "7",
+   "options": [
+    "Abu Bakr (RA)",
+    "Hamza (RA)",
+    "7",
+    "Quran"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 54,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which cave did the Prophet (SAW) receive the first revelation?",
+   "answer": "Hira",
+   "options": [
+    "Madinah",
+    "Abu Bakr (RA)",
+    "Hajj",
+    "Hira"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 55,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the first female martyr in Islam?",
+   "answer": "Sumayyah (RA)",
+   "options": [
+    "Al-Fatiha",
+    "7",
+    "Sumayyah (RA)",
+    "Umar ibn Al-Khattab (RA)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 56,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which Caliph standardized the written Quran?",
+   "answer": "Uthman (RA)",
+   "options": [
+    "Uthman (RA)",
+    "Aisha (RA)",
+    "Umar ibn Al-Khattab (RA)",
+    "Hira"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 57,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What is Zakat?",
+   "answer": "Obligatory charity, one of the five pillars",
+   "options": [
+    "Hamza (RA)",
+    "Obligatory charity, one of the five pillars",
+    "Ramadan",
+    "Al-Baqarah"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 58,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which festival marks the end of Ramadan?",
+   "answer": "Eid al-Fitr",
+   "options": [
+    "Eid al-Fitr",
+    "Muharram",
+    "2 AH",
+    "114"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 59,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which wife of the Prophet (SAW) is known for her scholarship?",
+   "answer": "Aisha (RA)",
+   "options": [
+    "Hira",
+    "Makkah",
+    "Madinah",
+    "Aisha (RA)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 60,
+   "section": "Islamic History",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What is the migration of the Prophet (SAW) from Makkah to Madinah called?",
+   "answer": "Hijrah",
+   "options": [
+    "Hijrah",
+    "Laylatul Qadr",
+    "2 AH",
+    "Ramadan"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 61,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Who was the first man to walk on the moon?",
+   "answer": "Neil Armstrong",
+   "options": [
+    "Nalanda",
+    "Neil Armstrong",
+    "Dr. Rajendra Prasad",
+    "Leonardo da Vinci"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 62,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "In which year did India get independence?",
+   "answer": "1947",
+   "options": [
+    "Indira Gandhi",
+    "1947",
+    "World War I",
+    "Jawaharlal Nehru"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 63,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Who is known as the Father of the Nation in India?",
+   "answer": "Mahatma Gandhi",
+   "options": [
+    "Egyptian",
+    "Mahatma Gandhi",
+    "Maurya Empire",
+    "Nalanda"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 64,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "In which year did World War II end?",
+   "answer": "1945",
+   "options": [
+    "Christopher Columbus",
+    "Dr. Rajendra Prasad",
+    "1947",
+    "1945"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 65,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Who discovered America in 1492?",
+   "answer": "Christopher Columbus",
+   "options": [
+    "Milkha Singh",
+    "Bahadur Shah Zafar",
+    "Christopher Columbus",
+    "Indira Gandhi"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 66,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Which civilization built the pyramids?",
+   "answer": "Egyptian",
+   "options": [
+    "Agra",
+    "Milkha Singh",
+    "Leonardo da Vinci",
+    "Egyptian"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 67,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Who was the first President of India?",
+   "answer": "Dr. Rajendra Prasad",
+   "options": [
+    "Shah Jahan",
+    "1945",
+    "World War I",
+    "Dr. Rajendra Prasad"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 68,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Who was the first Prime Minister of India?",
+   "answer": "Jawaharlal Nehru",
+   "options": [
+    "1989",
+    "Egyptian",
+    "Shah Jahan",
+    "Jawaharlal Nehru"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 69,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Which movement was launched by Gandhi in 1942?",
+   "answer": "Quit India Movement",
+   "options": [
+    "Bahadur Shah Zafar",
+    "Maurya Empire",
+    "Athens, 1896",
+    "Quit India Movement"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 70,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Who built the Qutub Minar?",
+   "answer": "Qutb-ud-din Aibak",
+   "options": [
+    "Quit India Movement",
+    "Mahatma Gandhi",
+    "Milkha Singh",
+    "Qutb-ud-din Aibak"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 71,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Which Mughal emperor built the Taj Mahal?",
+   "answer": "Shah Jahan",
+   "options": [
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "China",
+    "Shah Jahan"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 72,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Who was the last Mughal emperor of India?",
+   "answer": "Bahadur Shah Zafar",
+   "options": [
+    "Nalanda",
+    "Bahadur Shah Zafar",
+    "Shah Jahan",
+    "Dr. Rajendra Prasad"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 73,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "To which empire did Ashoka belong?",
+   "answer": "Maurya Empire",
+   "options": [
+    "1947",
+    "Chanakya / Kautilya",
+    "Egyptian",
+    "Maurya Empire"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 74,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Who wrote the Arthashastra?",
+   "answer": "Chanakya / Kautilya",
+   "options": [
+    "Quit India Movement",
+    "Chanakya / Kautilya",
+    "Maurya Empire",
+    "World War I"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 75,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Where were the first modern Olympic Games held?",
+   "answer": "Athens, 1896",
+   "options": [
+    "Athens, 1896",
+    "Agra",
+    "Indira Gandhi",
+    "Qutb-ud-din Aibak"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 76,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Which ancient Indian university was a famous centre of learning?",
+   "answer": "Nalanda",
+   "options": [
+    "Nalanda",
+    "1945",
+    "Jawaharlal Nehru",
+    "Quit India Movement"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 77,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Who is known as the Flying Sikh of India?",
+   "answer": "Milkha Singh",
+   "options": [
+    "Nalanda",
+    "Milkha Singh",
+    "Egyptian",
+    "World War I"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 78,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "In which city is the Taj Mahal located?",
+   "answer": "Agra",
+   "options": [
+    "Maurya Empire",
+    "Roman",
+    "Christopher Columbus",
+    "Agra"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 79,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Who painted the Mona Lisa?",
+   "answer": "Leonardo da Vinci",
+   "options": [
+    "Leonardo da Vinci",
+    "Roman",
+    "Qutb-ud-din Aibak",
+    "Dr. Rajendra Prasad"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 80,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Which war was fought between 1914 and 1918?",
+   "answer": "World War I",
+   "options": [
+    "Agra",
+    "Jawaharlal Nehru",
+    "1947",
+    "World War I"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 81,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Who was the first woman Prime Minister of India?",
+   "answer": "Indira Gandhi",
+   "options": [
+    "1947",
+    "Mahatma Gandhi",
+    "Roman",
+    "Indira Gandhi"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 82,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Which country invented paper?",
+   "answer": "China",
+   "options": [
+    "Mahatma Gandhi",
+    "World War I",
+    "China",
+    "Roman"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 83,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "In which year did the Berlin Wall fall?",
+   "answer": "1989",
+   "options": [
+    "1989",
+    "Nalanda",
+    "Shah Jahan",
+    "Milkha Singh"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 84,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Who is known as the Master Blaster of Indian cricket?",
+   "answer": "Sachin Tendulkar",
+   "options": [
+    "Sachin Tendulkar",
+    "Bahadur Shah Zafar",
+    "China",
+    "Indira Gandhi"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 85,
+   "section": "World History",
+   "category": "World History",
+   "level": "Bidaya",
+   "question": "Which civilization is known for the Colosseum?",
+   "answer": "Roman",
+   "options": [
+    "1989",
+    "Maurya Empire",
+    "Roman",
+    "Egyptian"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 86,
+   "section": "Current Affairs",
+   "category": "Current Affairs",
+   "level": "Bidaya",
+   "question": "Who is the President of India?",
+   "answer": "Droupadi Murmu",
+   "options": [
+    "United Nations Educational, Scientific and Cultural Organization",
+    "Droupadi Murmu",
+    "ISRO",
+    "India's national cleanliness campaign"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 87,
+   "section": "Current Affairs",
+   "category": "Current Affairs",
+   "level": "Bidaya",
+   "question": "Who is the Prime Minister of India?",
+   "answer": "Narendra Modi",
+   "options": [
+    "Narendra Modi",
+    "Chandrayaan-3",
+    "5 June",
+    "Droupadi Murmu"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 88,
+   "section": "Current Affairs",
+   "category": "Current Affairs",
+   "level": "Bidaya",
+   "question": "Which city hosted the 2024 Summer Olympic Games?",
+   "answer": "Paris",
+   "options": [
+    "Aditya-L1",
+    "5 June",
+    "New York",
+    "Paris"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 89,
+   "section": "Current Affairs",
+   "category": "Current Affairs",
+   "level": "Bidaya",
+   "question": "Which country won the FIFA World Cup 2022?",
+   "answer": "Argentina",
+   "options": [
+    "Chandrayaan-3",
+    "New Delhi",
+    "Argentina",
+    "India's national cleanliness campaign"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 90,
+   "section": "Current Affairs",
+   "category": "Current Affairs",
+   "level": "Bidaya",
+   "question": "What is the name of India's space agency?",
+   "answer": "ISRO",
+   "options": [
+    "India",
+    "Aditya-L1",
+    "ISRO",
+    "Argentina"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 91,
+   "section": "Current Affairs",
+   "category": "Current Affairs",
+   "level": "Bidaya",
+   "question": "Which Indian spacecraft landed near the Moon's south pole in 2023?",
+   "answer": "Chandrayaan-3",
+   "options": [
+    "Droupadi Murmu",
+    "New York",
+    "ISRO",
+    "Chandrayaan-3"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 92,
+   "section": "Current Affairs",
+   "category": "Current Affairs",
+   "level": "Bidaya",
+   "question": "What is India's first solar mission called?",
+   "answer": "Aditya-L1",
+   "options": [
+    "Chandrayaan-3",
+    "Aditya-L1",
+    "ISRO",
+    "Narendra Modi"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 93,
+   "section": "Current Affairs",
+   "category": "Current Affairs",
+   "level": "Bidaya",
+   "question": "Where is the headquarters of the United Nations?",
+   "answer": "New York",
+   "options": [
+    "New York",
+    "Aditya-L1",
+    "New Delhi",
+    "Narendra Modi"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 94,
+   "section": "Current Affairs",
+   "category": "Current Affairs",
+   "level": "Bidaya",
+   "question": "Which city hosted India's G20 Summit in 2023?",
+   "answer": "New Delhi",
+   "options": [
+    "Paris",
+    "New Delhi",
+    "5 June",
+    "Narendra Modi Stadium, Ahmedabad"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "GK",
+   "number": 95,
+   "section": "Current Affairs",
+   "category": "Current Affairs",
+   "level": "Bidaya",
+   "question": "Which is the most populous country in the world today?",
+   "answer": "India",
+   "options": [
+    "5 June",
+    "New Delhi",
+    "Argentina",
+    "India"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 96,
+   "section": "Current Affairs",
+   "category": "Current Affairs",
+   "level": "Bidaya",
+   "question": "What is the world's largest cricket stadium?",
+   "answer": "Narendra Modi Stadium, Ahmedabad",
+   "options": [
+    "Narendra Modi Stadium, Ahmedabad",
+    "Droupadi Murmu",
+    "India",
+    "Aditya-L1"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "GK",
+   "number": 97,
+   "section": "Current Affairs",
+   "category": "Current Affairs",
+   "level": "Bidaya",
+   "question": "What does UNESCO stand for?",
+   "answer": "United Nations Educational, Scientific and Cultural Organization",
+   "options": [
+    "Aditya-L1",
+    "Droupadi Murmu",
+    "United Nations Educational, Scientific and Cultural Organization",
+    "Paris"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 98,
+   "section": "Current Affairs",
+   "category": "Current Affairs",
+   "level": "Bidaya",
+   "question": "On which date is World Environment Day celebrated?",
+   "answer": "5 June",
+   "options": [
+    "Aditya-L1",
+    "Narendra Modi",
+    "Argentina",
+    "5 June"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "GK",
+   "number": 99,
+   "section": "Current Affairs",
+   "category": "Current Affairs",
+   "level": "Bidaya",
+   "question": "What is the Swachh Bharat Abhiyan?",
+   "answer": "India's national cleanliness campaign",
+   "options": [
+    "Droupadi Murmu",
+    "New York",
+    "India's national cleanliness campaign",
+    "Argentina"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "GK",
+   "number": 100,
+   "section": "Current Affairs",
+   "category": "Current Affairs",
+   "level": "Bidaya",
+   "question": "What is the currency used in France and Germany?",
+   "answer": "Euro",
+   "options": [
+    "Euro",
+    "India's national cleanliness campaign",
+    "5 June",
+    "Narendra Modi"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 1,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which year was Prophet Muhammad born, known as the Year of the Elephant?",
+   "answer": "570 CE",
+   "options": [
+    "The Muhajirun (Emigrants)",
+    "Halima al-Sa'diyya",
+    "The Battle of Hunayn",
+    "570 CE"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 2,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which city was Prophet Muhammad born?",
+   "answer": "Makkah",
+   "options": [
+    "Salman al-Farsi (RA)",
+    "Makkah",
+    "6 years old",
+    "Abd al-Muttalib"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 3,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What was the name of the father of Prophet Muhammad ?",
+   "answer": "Abdullah ibn Abd al-Muttalib",
+   "options": [
+    "Abdullah ibn Abd al-Muttalib",
+    "The first verses of Surah Al-'Alaq (96)",
+    "Cave Thawr",
+    "Masjid Quba"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 4,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What was the name of the mother of Prophet Muhammad ?",
+   "answer": "Amina bint Wahb",
+   "options": [
+    "Amina bint Wahb",
+    "Abd al-Muttalib",
+    "The Ansar (Helpers)",
+    "The Charter (Constitution) of Madinah"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 5,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the grandfather who first took care of the Prophet ?",
+   "answer": "Abd al-Muttalib",
+   "options": [
+    "King Najashi (the Negus)",
+    "Abd al-Muttalib",
+    "The Muhajirun (Emigrants)",
+    "Abu Talib"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 6,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the wet nurse (foster mother) of Prophet Muhammad ?",
+   "answer": "Halima al-Sa'diyya",
+   "options": [
+    "8 AH (630 CE)",
+    "11 AH (632 CE)",
+    "2 AH (624 CE)",
+    "Halima al-Sa'diyya"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 7,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "How old was the Prophet when his mother passed away at Abwa?",
+   "answer": "6 years old",
+   "options": [
+    "Cave Thawr",
+    "3 AH",
+    "6 years old",
+    "8 AH (630 CE)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 8,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which uncle took care of the Prophet after his grandfather died?",
+   "answer": "Abu Talib",
+   "options": [
+    "Abu Talib",
+    "6 AH",
+    "The Battle of Hunayn",
+    "Abu Bakr al-Siddiq (RA)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 9,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Whom did Prophet Muhammad marry at the age of 25?",
+   "answer": "Khadijah bint Khuwaylid (RA)",
+   "options": [
+    "Khadijah bint Khuwaylid (RA)",
+    "Amina bint Wahb",
+    "Heraclius",
+    "Al-Buraq"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 10,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which cave did the Prophet receive the first revelation?",
+   "answer": "Cave Hira",
+   "options": [
+    "Halima al-Sa'diyya",
+    "Al-Buraq",
+    "The Battle of Hunayn",
+    "Cave Hira"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 11,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which month did the first revelation come?",
+   "answer": "Ramadan",
+   "options": [
+    "Cave Thawr",
+    "Ramadan",
+    "313",
+    "Madinah — in Masjid an-Nabawi"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 12,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which were the first revealed verses of the Qur'an?",
+   "answer": "The first verses of Surah Al-'Alaq (96)",
+   "options": [
+    "The first verses of Surah Al-'Alaq (96)",
+    "The Battle of Hunayn",
+    "Cave Thawr",
+    "Khadijah bint Khuwaylid (RA)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 13,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which angel brought the revelation to the Prophet ?",
+   "answer": "Jibreel (Gabriel)",
+   "options": [
+    "Cave Hira",
+    "Makkah",
+    "Jibreel (Gabriel)",
+    "313"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 14,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the first woman to accept Islam?",
+   "answer": "Khadijah (RA)",
+   "options": [
+    "Khadijah (RA)",
+    "Al-Buraq",
+    "Halima al-Sa'diyya",
+    "The Muhajirun (Emigrants)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 15,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the first adult man to accept Islam?",
+   "answer": "Abu Bakr al-Siddiq (RA)",
+   "options": [
+    "6 years old",
+    "Abd al-Muttalib",
+    "Abdullah ibn Abd al-Muttalib",
+    "Abu Bakr al-Siddiq (RA)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 16,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who is known as the first martyr (shaheedah) in Islam?",
+   "answer": "Sumayyah bint Khayyat (RA)",
+   "options": [
+    "Sumayyah bint Khayyat (RA)",
+    "The Ansar (Helpers)",
+    "Abyssinia (Habasha, present-day Ethiopia)",
+    "Jibreel (Gabriel)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 17,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which year did the Hijrah to Madinah take place?",
+   "answer": "622 CE (1 AH)",
+   "options": [
+    "622 CE (1 AH)",
+    "Sumayyah bint Khayyat (RA)",
+    "Khadijah bint Khuwaylid (RA)",
+    "Makkah"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 18,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who accompanied the Prophet during the Hijrah?",
+   "answer": "Abu Bakr al-Siddiq (RA)",
+   "options": [
+    "570 CE",
+    "Abu Bakr al-Siddiq (RA)",
+    "Cave Hira",
+    "11 AH (632 CE)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 19,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which cave did the Prophet and Abu Bakr (RA) stay during the Hijrah?",
+   "answer": "Cave Thawr",
+   "options": [
+    "The Charter (Constitution) of Madinah",
+    "3 AH",
+    "Cave Thawr",
+    "Makkah"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 20,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which is the first mosque built in Islam, founded on the way to Madinah?",
+   "answer": "Masjid Quba",
+   "options": [
+    "3 AH",
+    "2 AH (624 CE)",
+    "Masjid Quba",
+    "Sumayyah bint Khayyat (RA)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 21,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which mosque was built by the Prophet in Madinah?",
+   "answer": "Masjid an-Nabawi (the Prophet's Mosque)",
+   "options": [
+    "The Ansar (Helpers)",
+    "Taif",
+    "3 AH",
+    "Masjid an-Nabawi (the Prophet's Mosque)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 22,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which Hijri year was the Battle of Badr fought?",
+   "answer": "2 AH (624 CE)",
+   "options": [
+    "2 AH (624 CE)",
+    "11 AH (632 CE)",
+    "The Ansar (Helpers)",
+    "Abu Bakr al-Siddiq (RA)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 23,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "How many Muslims fought in the Battle of Badr?",
+   "answer": "313",
+   "options": [
+    "570 CE",
+    "313",
+    "11 AH (632 CE)",
+    "8 AH (630 CE)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 24,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which Hijri year was the Battle of Uhud fought?",
+   "answer": "3 AH",
+   "options": [
+    "Heraclius",
+    "Jibreel (Gabriel)",
+    "Abdullah ibn Abd al-Muttalib",
+    "3 AH"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 25,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who suggested digging the trench in the Battle of Khandaq (the Trench)?",
+   "answer": "Salman al-Farsi (RA)",
+   "options": [
+    "Abyssinia (Habasha, present-day Ethiopia)",
+    "Salman al-Farsi (RA)",
+    "Heraclius",
+    "Abd al-Muttalib"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 26,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which Hijri year was the Treaty of Hudaybiyyah signed?",
+   "answer": "6 AH",
+   "options": [
+    "570 CE",
+    "6 AH",
+    "Masjid Quba",
+    "Cave Thawr"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 27,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which Hijri year did the Conquest of Makkah take place?",
+   "answer": "8 AH (630 CE)",
+   "options": [
+    "Al-Buraq",
+    "8 AH (630 CE)",
+    "The Ansar (Helpers)",
+    "Abdullah ibn Abd al-Muttalib"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 28,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which battle was fought soon after the Conquest of Makkah against the Hawazin?",
+   "answer": "The Battle of Hunayn",
+   "options": [
+    "Salman al-Farsi (RA)",
+    "The Battle of Hunayn",
+    "The Muhajirun (Emigrants)",
+    "King Najashi (the Negus)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 29,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which Hijri year did the Prophet perform the Farewell Hajj?",
+   "answer": "10 AH",
+   "options": [
+    "10 AH",
+    "Masjid an-Nabawi (the Prophet's Mosque)",
+    "Jibreel (Gabriel)",
+    "The 10th year — when Khadijah (RA) and Abu Talib died"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 30,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which Hijri year did Prophet Muhammad pass away?",
+   "answer": "11 AH (632 CE)",
+   "options": [
+    "11 AH (632 CE)",
+    "3 AH",
+    "Al-Buraq",
+    "The first verses of Surah Al-'Alaq (96)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 31,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which city is Prophet Muhammad buried?",
+   "answer": "Madinah — in Masjid an-Nabawi",
+   "options": [
+    "The Battle of Hunayn",
+    "8 AH (630 CE)",
+    "Madinah — in Masjid an-Nabawi",
+    "Ramadan"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 32,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "To which land did the first group of Muslims migrate before Madinah?",
+   "answer": "Abyssinia (Habasha, present-day Ethiopia)",
+   "options": [
+    "Cave Hira",
+    "Al-Buraq",
+    "Abyssinia (Habasha, present-day Ethiopia)",
+    "Abu Bakr al-Siddiq (RA)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 33,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the just king of Abyssinia who sheltered the Muslim migrants?",
+   "answer": "King Najashi (the Negus)",
+   "options": [
+    "King Najashi (the Negus)",
+    "Ramadan",
+    "Jibreel (Gabriel)",
+    "Abu Talib"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 34,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "On which animal did the Prophet travel during Isra and Mi'raj?",
+   "answer": "Al-Buraq",
+   "options": [
+    "Al-Buraq",
+    "The Muhajirun (Emigrants)",
+    "6 years old",
+    "The Ansar (Helpers)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 35,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which year of prophethood is called the Year of Sorrow ('Am al-Huzn)?",
+   "answer": "The 10th year — when Khadijah (RA) and Abu Talib died",
+   "options": [
+    "The 10th year — when Khadijah (RA) and Abu Talib died",
+    "2 AH (624 CE)",
+    "The Muhajirun (Emigrants)",
+    "Makkah"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 36,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "To which city did the Prophet travel and face hardship after the Year of Sorrow?",
+   "answer": "Taif",
+   "options": [
+    "Sumayyah bint Khayyat (RA)",
+    "King Najashi (the Negus)",
+    "Heraclius",
+    "Taif"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 37,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What are the Muslims of Madinah who helped the emigrants called?",
+   "answer": "The Ansar (Helpers)",
+   "options": [
+    "The Muhajirun (Emigrants)",
+    "Sumayyah bint Khayyat (RA)",
+    "Al-Buraq",
+    "The Ansar (Helpers)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 38,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What are the Muslims who migrated from Makkah to Madinah called?",
+   "answer": "The Muhajirun (Emigrants)",
+   "options": [
+    "The Muhajirun (Emigrants)",
+    "Khadijah (RA)",
+    "570 CE",
+    "Cave Hira"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 39,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What is the agreement written in Madinah between Muslims and other communities called?",
+   "answer": "The Charter (Constitution) of Madinah",
+   "options": [
+    "Abd al-Muttalib",
+    "2 AH (624 CE)",
+    "The Charter (Constitution) of Madinah",
+    "Ramadan"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 40,
+   "section": "Seerah",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "To which Roman (Byzantine) emperor did the Prophet send a letter inviting him to Islam?",
+   "answer": "Heraclius",
+   "options": [
+    "Khadijah (RA)",
+    "2 AH (624 CE)",
+    "Heraclius",
+    "6 years old"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 41,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "How many prophets are known as Ulul Azm (the resolute prophets)?",
+   "answer": "Five",
+   "options": [
+    "Five",
+    "The fire became cool and safe by Allah's command",
+    "Egypt",
+    "The Red Sea"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 43,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the first prophet and the first human being?",
+   "answer": "Prophet Adam (AS)",
+   "options": [
+    "Prophet Muhammad",
+    "Prophet Adam (AS)",
+    "Hajar (Hagar) — mother of Ismail (AS)",
+    "Azar"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 44,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which prophet built a great ark (ship) by Allah's command?",
+   "answer": "Prophet Nuh (Noah) (AS)",
+   "options": [
+    "Mount Tur (Sinai)",
+    "Prophet Zakariya (AS)",
+    "Hajar (Hagar) — mother of Ismail (AS)",
+    "Prophet Nuh (Noah) (AS)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 45,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which prophet is called Khalilullah, the Friend of Allah?",
+   "answer": "Prophet Ibrahim (Abraham) (AS)",
+   "options": [
+    "Egypt",
+    "Bilqis, Queen of Saba (Sheba)",
+    "Isra'il",
+    "Prophet Ibrahim (Abraham) (AS)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 46,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What was the name of the father of Prophet Ibrahim (AS)?",
+   "answer": "Azar",
+   "options": [
+    "Fir'awn (Pharaoh)",
+    "Prophet Ibrahim (Abraham) (AS)",
+    "Azar",
+    "At-Tawrat (the Torah)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 47,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What happened when Prophet Ibrahim (AS) was thrown into the fire?",
+   "answer": "The fire became cool and safe by Allah's command",
+   "options": [
+    "The fire became cool and safe by Allah's command",
+    "Mount Tur (Sinai)",
+    "Prophet Ibrahim (Abraham) (AS)",
+    "Five"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 48,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which son of Ibrahim (AS) was with him when he raised the foundations of the Kaaba?",
+   "answer": "Prophet Ismail (Ishmael) (AS)",
+   "options": [
+    "Egypt",
+    "The Red Sea",
+    "Prophet Ismail (Ishmael) (AS)",
+    "Prophet Muhammad"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 49,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which wife of Ibrahim (AS) ran between Safa and Marwah searching for water?",
+   "answer": "Hajar (Hagar) — mother of Ismail (AS)",
+   "options": [
+    "Azar",
+    "Prophet Zakariya (AS)",
+    "Hajar (Hagar) — mother of Ismail (AS)",
+    "Five"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 50,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What is the name of the spring that flowed for baby Ismail (AS)?",
+   "answer": "Zamzam",
+   "options": [
+    "Five",
+    "Prophet Ismail (Ishmael) (AS)",
+    "Zamzam",
+    "Fir'awn (Pharaoh)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 51,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the father of Prophet Ya'qub (AS)?",
+   "answer": "Prophet Ishaq (Isaac) (AS)",
+   "options": [
+    "Prophet Ishaq (Isaac) (AS)",
+    "Azar",
+    "Mount Tur (Sinai)",
+    "Prophet Muhammad"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 52,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "By what other name is Prophet Ya'qub (AS) known?",
+   "answer": "Isra'il",
+   "options": [
+    "Zamzam",
+    "Az-Zabur (the Psalms)",
+    "Bilqis, Queen of Saba (Sheba)",
+    "Isra'il"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 53,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which prophet saw a dream of eleven stars, the sun and the moon prostrating to him?",
+   "answer": "Prophet Yusuf (Joseph) (AS)",
+   "options": [
+    "Fir'awn (Pharaoh)",
+    "Prophet Nuh (Noah) (AS)",
+    "Prophet Yusuf (Joseph) (AS)",
+    "Prophet Zakariya (AS)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 54,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "In which country did Prophet Yusuf (AS) become a minister (in charge of the storehouses)?",
+   "answer": "Egypt",
+   "options": [
+    "Prophet Yunus (Jonah) (AS)",
+    "Egypt",
+    "The Red Sea",
+    "Prophet Yusuf (Joseph) (AS)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 55,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which prophet was taken as a baby in a basket on the River Nile?",
+   "answer": "Prophet Musa (Moses) (AS)",
+   "options": [
+    "Prophet Sulayman (Solomon) (AS)",
+    "Prophet Muhammad",
+    "Azar",
+    "Prophet Musa (Moses) (AS)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 56,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the tyrant king of Egypt at the time of Prophet Musa (AS)?",
+   "answer": "Fir'awn (Pharaoh)",
+   "options": [
+    "Prophet Harun (Aaron) (AS)",
+    "Jalut (Goliath)",
+    "Fir'awn (Pharaoh)",
+    "Prophet Zakariya (AS)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 57,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which Book (scripture) was revealed to Prophet Musa (AS)?",
+   "answer": "At-Tawrat (the Torah)",
+   "options": [
+    "Prophet Musa (Moses) (AS)",
+    "At-Tawrat (the Torah)",
+    "Jalut (Goliath)",
+    "The fire became cool and safe by Allah's command"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 58,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "On which mountain did Musa (AS) receive the Tawrat?",
+   "answer": "Mount Tur (Sinai)",
+   "options": [
+    "Prophet Harun (Aaron) (AS)",
+    "Prophet Isa (Jesus) (AS)",
+    "Jalut (Goliath)",
+    "Mount Tur (Sinai)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 59,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which sea was split by Allah for Musa (AS) and Bani Isra'il?",
+   "answer": "The Red Sea",
+   "options": [
+    "Prophet Ishaq (Isaac) (AS)",
+    "The Red Sea",
+    "Prophet Harun (Aaron) (AS)",
+    "Prophet Muhammad"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 60,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the brother and helper of Prophet Musa (AS)?",
+   "answer": "Prophet Harun (Aaron) (AS)",
+   "options": [
+    "Bilqis, Queen of Saba (Sheba)",
+    "The fire became cool and safe by Allah's command",
+    "Prophet Yusuf (Joseph) (AS)",
+    "Prophet Harun (Aaron) (AS)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 61,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which Book was revealed to Prophet Dawud (AS)?",
+   "answer": "Az-Zabur (the Psalms)",
+   "options": [
+    "Fir'awn (Pharaoh)",
+    "Az-Zabur (the Psalms)",
+    "Azar",
+    "Prophet Isa (Jesus) (AS)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 62,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which giant warrior did young Dawud (AS) defeat?",
+   "answer": "Jalut (Goliath)",
+   "options": [
+    "Jalut (Goliath)",
+    "Azar",
+    "Prophet Ishaq (Isaac) (AS)",
+    "Zamzam"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 63,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the son of Dawud (AS) who became a great king and prophet?",
+   "answer": "Prophet Sulayman (Solomon) (AS)",
+   "options": [
+    "Prophet Ibrahim (Abraham) (AS)",
+    "Prophet Ayyub (Job) (AS)",
+    "Isra'il",
+    "Prophet Sulayman (Solomon) (AS)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 64,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which queen visited Prophet Sulayman (AS) and accepted the true faith?",
+   "answer": "Bilqis, Queen of Saba (Sheba)",
+   "options": [
+    "Hajar (Hagar) — mother of Ismail (AS)",
+    "Isra'il",
+    "Prophet Musa (Moses) (AS)",
+    "Bilqis, Queen of Saba (Sheba)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 65,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which prophet is famous for his patience during long illness and loss?",
+   "answer": "Prophet Ayyub (Job) (AS)",
+   "options": [
+    "Jalut (Goliath)",
+    "Al-Injil (the Gospel)",
+    "Prophet Ayyub (Job) (AS)",
+    "Isra'il"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 66,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which prophet was swallowed by a great fish and prayed inside it?",
+   "answer": "Prophet Yunus (Jonah) (AS)",
+   "options": [
+    "Prophet Yunus (Jonah) (AS)",
+    "Egypt",
+    "Azar",
+    "Hajar (Hagar) — mother of Ismail (AS)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 67,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which prophet was the father of Prophet Yahya (AS)?",
+   "answer": "Prophet Zakariya (AS)",
+   "options": [
+    "Al-Injil (the Gospel)",
+    "Prophet Zakariya (AS)",
+    "Egypt",
+    "Prophet Musa (Moses) (AS)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 68,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which prophet was born to Maryam (Mary) without a father?",
+   "answer": "Prophet Isa (Jesus) (AS)",
+   "options": [
+    "Hajar (Hagar) — mother of Ismail (AS)",
+    "Prophet Musa (Moses) (AS)",
+    "The Red Sea",
+    "Prophet Isa (Jesus) (AS)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 69,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which Book was revealed to Prophet Isa (AS)?",
+   "answer": "Al-Injil (the Gospel)",
+   "options": [
+    "Al-Injil (the Gospel)",
+    "At-Tawrat (the Torah)",
+    "Bilqis, Queen of Saba (Sheba)",
+    "The fire became cool and safe by Allah's command"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 70,
+   "section": "Prophets",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which prophet is called Khatam an-Nabiyyin, the Seal (Last) of the Prophets?",
+   "answer": "Prophet Muhammad",
+   "options": [
+    "At-Tawrat (the Torah)",
+    "Prophet Muhammad",
+    "Al-Injil (the Gospel)",
+    "Prophet Ayyub (Job) (AS)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 71,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the first Caliph (Khalifah) of Islam?",
+   "answer": "Abu Bakr al-Siddiq (RA)",
+   "options": [
+    "Hasan ibn Ali (RA)",
+    "The Battle of the Camel (Jamal)",
+    "Abu Bakr al-Siddiq (RA)",
+    "The Ridda (Apostasy) Wars"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 72,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What was the real name of Abu Bakr (RA)?",
+   "answer": "Abdullah ibn Abi Quhafah",
+   "options": [
+    "Abdullah ibn Abi Quhafah",
+    "As-Siddiq (the Truthful)",
+    "The Hijri calendar",
+    "About 12 years"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 73,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What title was Abu Bakr (RA) given for believing the Prophet without doubt?",
+   "answer": "As-Siddiq (the Truthful)",
+   "options": [
+    "The Hijri calendar",
+    "The Battle of Siffin",
+    "As-Siddiq (the Truthful)",
+    "Hasan ibn Ali (RA)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 74,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "For how long did Abu Bakr (RA) rule as Caliph (632–634 CE)?",
+   "answer": "About 2 years",
+   "options": [
+    "Fatimah (RA)",
+    "About 2 years",
+    "As-Siddiq (the Truthful)",
+    "Abu Bakr (RA)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 75,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which wars did Abu Bakr (RA) fight to unite Arabia after the Prophet's death?",
+   "answer": "The Ridda (Apostasy) Wars",
+   "options": [
+    "Umar ibn al-Khattab (RA)",
+    "Abu Bakr (RA)",
+    "The Ridda (Apostasy) Wars",
+    "Hasan ibn Ali (RA)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 76,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Under which Caliph was the Qur'an first collected into one book?",
+   "answer": "Abu Bakr (RA)",
+   "options": [
+    "The Battle of Siffin",
+    "About 30 years",
+    "Abu Bakr (RA)",
+    "In his own house in Madinah, while reciting the Qur'an"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 77,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was given the task of compiling the Qur'an into one book?",
+   "answer": "Zayd ibn Thabit (RA)",
+   "options": [
+    "Abu Lu'lu'ah Fayruz",
+    "Abu Bakr al-Siddiq (RA)",
+    "His cousin and son-in-law",
+    "Zayd ibn Thabit (RA)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 78,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who bought and freed the famous muezzin Bilal (RA) from his master?",
+   "answer": "Abu Bakr (RA)",
+   "options": [
+    "As-Siddiq (the Truthful)",
+    "Abu Bakr al-Siddiq (RA)",
+    "Abu Bakr (RA)",
+    "Al-Farooq — who separates truth from falsehood"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 79,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the second Caliph of Islam?",
+   "answer": "Umar ibn al-Khattab (RA)",
+   "options": [
+    "Umar ibn al-Khattab (RA)",
+    "Uthman ibn Affan (RA)",
+    "As-Siddiq (the Truthful)",
+    "The Hijrah of the Prophet to Madinah"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 80,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What title is Umar (RA) famous for?",
+   "answer": "Al-Farooq — who separates truth from falsehood",
+   "options": [
+    "Fatimah (RA)",
+    "About 12 years",
+    "Zayd ibn Thabit (RA)",
+    "Al-Farooq — who separates truth from falsehood"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 81,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "For how long did Umar (RA) rule as Caliph (634–644 CE)?",
+   "answer": "About 10 years",
+   "options": [
+    "About 10 years",
+    "Abu Lu'lu'ah Fayruz",
+    "The Battle of Siffin",
+    "Hasan ibn Ali (RA)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 82,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which calendar did Umar (RA) introduce for the Muslims?",
+   "answer": "The Hijri calendar",
+   "options": [
+    "He married two daughters of the Prophet , one after the other",
+    "The Hijri calendar",
+    "Ibn Muljam (a Kharijite)",
+    "Kufa (in Iraq)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 83,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "From which event does the Hijri calendar begin?",
+   "answer": "The Hijrah of the Prophet to Madinah",
+   "options": [
+    "The Ridda (Apostasy) Wars",
+    "The Hijrah of the Prophet to Madinah",
+    "Jerusalem (Al-Quds)",
+    "Al-Farooq — who separates truth from falsehood"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 84,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which holy city came under Muslim rule in the time of Umar (RA) without bloodshed by treaty?",
+   "answer": "Jerusalem (Al-Quds)",
+   "options": [
+    "About 12 years",
+    "About 2 years",
+    "In his own house in Madinah, while reciting the Qur'an",
+    "Jerusalem (Al-Quds)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 85,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which two great empires lost large lands to Islam in Umar's time — Persia and whom?",
+   "answer": "The Byzantine (Roman) Empire",
+   "options": [
+    "About 10 years",
+    "The Byzantine (Roman) Empire",
+    "About 2 years",
+    "Fatimah (RA)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 86,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who martyred Umar (RA) while he was leading Fajr prayer?",
+   "answer": "Abu Lu'lu'ah Fayruz",
+   "options": [
+    "Abdullah ibn Abi Quhafah",
+    "Ali ibn Abi Talib (RA)",
+    "He married two daughters of the Prophet , one after the other",
+    "Abu Lu'lu'ah Fayruz"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 87,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the third Caliph of Islam?",
+   "answer": "Uthman ibn Affan (RA)",
+   "options": [
+    "Abu Bakr (RA)",
+    "Uthman ibn Affan (RA)",
+    "About 10 years",
+    "The Byzantine (Roman) Empire"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 88,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Why is Uthman (RA) called Dhun Nurayn, 'Possessor of the Two Lights'?",
+   "answer": "He married two daughters of the Prophet , one after the other",
+   "options": [
+    "As-Siddiq (the Truthful)",
+    "The Battle of Siffin",
+    "He married two daughters of the Prophet , one after the other",
+    "Ali ibn Abi Talib (RA)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 89,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What is the greatest service of Uthman (RA) regarding the Qur'an?",
+   "answer": "He made the standard official copies (the Uthmani Mushaf) and sent them to the provinces",
+   "options": [
+    "Zayd ibn Thabit (RA)",
+    "The Byzantine (Roman) Empire",
+    "Abu Lu'lu'ah Fayruz",
+    "He made the standard official copies (the Uthmani Mushaf) and sent them to the provinces"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 90,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "For how long did Uthman (RA) rule as Caliph (644–656 CE)?",
+   "answer": "About 12 years",
+   "options": [
+    "Ali ibn Abi Talib (RA)",
+    "About 12 years",
+    "About 2 years",
+    "The Hijri calendar"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 91,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Where was Uthman (RA) martyred?",
+   "answer": "In his own house in Madinah, while reciting the Qur'an",
+   "options": [
+    "Zayd ibn Thabit (RA)",
+    "The Ridda (Apostasy) Wars",
+    "In his own house in Madinah, while reciting the Qur'an",
+    "The Hijri calendar"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 92,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who was the fourth Caliph of Islam?",
+   "answer": "Ali ibn Abi Talib (RA)",
+   "options": [
+    "Kufa (in Iraq)",
+    "The Battle of the Camel (Jamal)",
+    "The Byzantine (Roman) Empire",
+    "Ali ibn Abi Talib (RA)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 93,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "What was the relation of Ali (RA) to the Prophet ?",
+   "answer": "His cousin and son-in-law",
+   "options": [
+    "About 10 years",
+    "In his own house in Madinah, while reciting the Qur'an",
+    "Ibn Muljam (a Kharijite)",
+    "His cousin and son-in-law"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 94,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Whom did Ali (RA) marry, the beloved daughter of the Prophet ?",
+   "answer": "Fatimah (RA)",
+   "options": [
+    "About 2 years",
+    "Abu Bakr al-Siddiq (RA)",
+    "Uthman ibn Affan (RA)",
+    "Fatimah (RA)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 95,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "To which city did Ali (RA) move the capital of the caliphate?",
+   "answer": "Kufa (in Iraq)",
+   "options": [
+    "The Ridda (Apostasy) Wars",
+    "The Byzantine (Roman) Empire",
+    "Zayd ibn Thabit (RA)",
+    "Kufa (in Iraq)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 96,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which battle, in which Aisha (RA) took part, was fought in Ali's time?",
+   "answer": "The Battle of the Camel (Jamal)",
+   "options": [
+    "Ali ibn Abi Talib (RA)",
+    "The Battle of the Camel (Jamal)",
+    "Kufa (in Iraq)",
+    "Umar ibn al-Khattab (RA)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 97,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Which battle was fought between Ali (RA) and Mu'awiyah (RA)?",
+   "answer": "The Battle of Siffin",
+   "options": [
+    "He made the standard official copies (the Uthmani Mushaf) and sent them to the provinces",
+    "Fatimah (RA)",
+    "The Battle of Siffin",
+    "Jerusalem (Al-Quds)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 98,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who martyred Ali (RA) in Kufa?",
+   "answer": "Ibn Muljam (a Kharijite)",
+   "options": [
+    "Abu Bakr al-Siddiq (RA)",
+    "In his own house in Madinah, while reciting the Qur'an",
+    "Ibn Muljam (a Kharijite)",
+    "The Hijrah of the Prophet to Madinah"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 99,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "Who became Caliph after Ali (RA) and then made peace with Mu'awiyah (RA) to unite the Muslims?",
+   "answer": "Hasan ibn Ali (RA)",
+   "options": [
+    "Hasan ibn Ali (RA)",
+    "His cousin and son-in-law",
+    "Kufa (in Iraq)",
+    "Abdullah ibn Abi Quhafah"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 100,
+   "section": "Rashidun Caliphs",
+   "category": "Islamic History",
+   "level": "Bidaya",
+   "question": "How long did the period of the Khulafa-e-Rashidun last (632–661 CE)?",
+   "answer": "About 30 years",
+   "options": [
+    "He made the standard official copies (the Uthmani Mushaf) and sent them to the provinces",
+    "The Ridda (Apostasy) Wars",
+    "About 30 years",
+    "He married two daughters of the Prophet , one after the other"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 101,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "What does 'Ashara Mubashsharah' mean?",
+   "answer": "The Ten (companions) given the glad tidings of Paradise in their lifetime",
+   "options": [
+    "Abdur Rahman ibn Awf (RA)",
+    "Mus'ab ibn Umayr (RA)",
+    "Fatimah (RA)",
+    "The Ten (companions) given the glad tidings of Paradise in their lifetime"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 102,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "How many companions are in the Ashara Mubashsharah?",
+   "answer": "Ten",
+   "options": [
+    "Ja'far ibn Abi Talib (RA)",
+    "Ten",
+    "Sa'd ibn Abi Waqqas (RA)",
+    "Khalid ibn al-Walid (RA)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 104,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which companion of the Ashara was called Amin al-Ummah, the Trustee of this Ummah?",
+   "answer": "Abu Ubaydah ibn al-Jarrah (RA)",
+   "options": [
+    "Abu Ubaydah ibn al-Jarrah (RA)",
+    "Sa'id ibn Zayd (RA)",
+    "Persia (Iran)",
+    "Fatimah (RA)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 105,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which companion led the Muslim army to victory at the Battle of Qadisiyyah against Persia?",
+   "answer": "Sa'd ibn Abi Waqqas (RA)",
+   "options": [
+    "Mu'adh ibn Jabal (RA)",
+    "At Karbala (Iraq)",
+    "Abu Hurayrah (RA)",
+    "Sa'd ibn Abi Waqqas (RA)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 106,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which two Ashara companions were martyred in the Battle of the Camel?",
+   "answer": "Talha ibn Ubaydullah and Zubayr ibn al-Awwam (RA)",
+   "options": [
+    "Ja'far ibn Abi Talib (RA)",
+    "Hamzah ibn Abd al-Muttalib (RA)",
+    "Talha ibn Ubaydullah and Zubayr ibn al-Awwam (RA)",
+    "Mu'adh ibn Jabal (RA)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 107,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which wealthy Ashara companion was one of the six-member shura chosen by Umar (RA)?",
+   "answer": "Abdur Rahman ibn Awf (RA)",
+   "options": [
+    "Amr ibn al-As (RA)",
+    "Ja'far ibn Abi Talib (RA)",
+    "Zayd ibn Harithah (RA)",
+    "Abdur Rahman ibn Awf (RA)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 108,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who was the tenth of the Ashara, whose father Zayd was a Hanif searching for the true religion before Islam?",
+   "answer": "Sa'id ibn Zayd (RA)",
+   "options": [
+    "Aisha bint Abi Bakr (RA)",
+    "Sa'id ibn Zayd (RA)",
+    "Khalid ibn al-Walid (RA)",
+    "Abdur Rahman ibn Awf (RA)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 109,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who was the first muezzin of Islam, who called the Adhan from the Kaaba after the Conquest of Makkah?",
+   "answer": "Bilal ibn Rabah (RA)",
+   "options": [
+    "Persia (Iran)",
+    "Bilal ibn Rabah (RA)",
+    "Talha ibn Ubaydullah and Zubayr ibn al-Awwam (RA)",
+    "Aisha bint Abi Bakr (RA)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 110,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which uncle of the Prophet is called the Lion of Allah and the Chief of the Martyrs?",
+   "answer": "Hamzah ibn Abd al-Muttalib (RA)",
+   "options": [
+    "Hamzah ibn Abd al-Muttalib (RA)",
+    "Hasan ibn Ali (RA)",
+    "Persia (Iran)",
+    "Abdullah ibn Abbas (RA)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 111,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who martyred Hamzah (RA) in the Battle of Uhud?",
+   "answer": "Wahshi",
+   "options": [
+    "Anas ibn Malik (RA)",
+    "Abu Hurayrah (RA)",
+    "Abdullah ibn Abbas (RA)",
+    "Wahshi"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 112,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which commander was given the title 'Sayfullah — the Sword of Allah' by the Prophet ?",
+   "answer": "Khalid ibn al-Walid (RA)",
+   "options": [
+    "Khalid ibn al-Walid (RA)",
+    "Aisha bint Abi Bakr (RA)",
+    "The Ten (companions) given the glad tidings of Paradise in their lifetime",
+    "Abdullah ibn Abbas (RA)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 113,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which companion conquered Egypt for Islam?",
+   "answer": "Amr ibn al-As (RA)",
+   "options": [
+    "Amr ibn al-As (RA)",
+    "Bilal ibn Rabah (RA)",
+    "Hamzah ibn Abd al-Muttalib (RA)",
+    "Khalid ibn al-Walid (RA)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 114,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "From which land did Salman al-Farsi (RA) come?",
+   "answer": "Persia (Iran)",
+   "options": [
+    "Persia (Iran)",
+    "Ten",
+    "Mu'adh ibn Jabal (RA)",
+    "Abu Hurayrah (RA)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 115,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which companion narrated the largest number of Hadith?",
+   "answer": "Abu Hurayrah (RA)",
+   "options": [
+    "Wahshi",
+    "Abdullah ibn Abbas (RA)",
+    "Abu Hurayrah (RA)",
+    "Hamzah ibn Abd al-Muttalib (RA)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 116,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which wife of the Prophet , daughter of Abu Bakr (RA), narrated many Hadith and taught the companions?",
+   "answer": "Aisha bint Abi Bakr (RA)",
+   "options": [
+    "Ja'far ibn Abi Talib (RA)",
+    "Ten",
+    "Hamzah ibn Abd al-Muttalib (RA)",
+    "Aisha bint Abi Bakr (RA)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 117,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who was the youngest daughter of the Prophet and the mother of Hasan and Husayn (RA)?",
+   "answer": "Fatimah (RA)",
+   "options": [
+    "Bilal ibn Rabah (RA)",
+    "Fatimah (RA)",
+    "Sa'id ibn Zayd (RA)",
+    "Anas ibn Malik (RA)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 118,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who was the elder grandson of the Prophet , son of Ali and Fatimah (RA)?",
+   "answer": "Hasan ibn Ali (RA)",
+   "options": [
+    "Aisha bint Abi Bakr (RA)",
+    "Talha ibn Ubaydullah and Zubayr ibn al-Awwam (RA)",
+    "Hamzah ibn Abd al-Muttalib (RA)",
+    "Hasan ibn Ali (RA)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 119,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Where was Husayn ibn Ali (RA) martyred?",
+   "answer": "At Karbala (Iraq)",
+   "options": [
+    "Hamzah ibn Abd al-Muttalib (RA)",
+    "At Karbala (Iraq)",
+    "The Ten (companions) given the glad tidings of Paradise in their lifetime",
+    "Khalid ibn al-Walid (RA)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 120,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who was the freed slave and adopted son of the Prophet in the early days?",
+   "answer": "Zayd ibn Harithah (RA)",
+   "options": [
+    "Mu'adh ibn Jabal (RA)",
+    "Zayd ibn Harithah (RA)",
+    "Abdullah ibn Abbas (RA)",
+    "Sa'd ibn Abi Waqqas (RA)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 121,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who was the first envoy (ambassador) of the Prophet sent to teach in Madinah before the Hijrah?",
+   "answer": "Mus'ab ibn Umayr (RA)",
+   "options": [
+    "Mus'ab ibn Umayr (RA)",
+    "Anas ibn Malik (RA)",
+    "Zayd ibn Harithah (RA)",
+    "Wahshi"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 122,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which young companion served the Prophet for ten years in Madinah?",
+   "answer": "Anas ibn Malik (RA)",
+   "options": [
+    "Anas ibn Malik (RA)",
+    "Amr ibn al-As (RA)",
+    "The Ten (companions) given the glad tidings of Paradise in their lifetime",
+    "Abdur Rahman ibn Awf (RA)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 123,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which cousin of the Prophet is famous as the Interpreter of the Qur'an (Tarjuman al-Qur'an)?",
+   "answer": "Abdullah ibn Abbas (RA)",
+   "options": [
+    "Mu'adh ibn Jabal (RA)",
+    "Sa'id ibn Zayd (RA)",
+    "Abdullah ibn Abbas (RA)",
+    "Aisha bint Abi Bakr (RA)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 124,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Whom did the Prophet send to Yemen as a teacher and judge?",
+   "answer": "Mu'adh ibn Jabal (RA)",
+   "options": [
+    "Hamzah ibn Abd al-Muttalib (RA)",
+    "Khalid ibn al-Walid (RA)",
+    "Abu Hurayrah (RA)",
+    "Mu'adh ibn Jabal (RA)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 125,
+   "section": "Ashara & Sahaba",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which brother of Ali (RA) was martyred at Mu'tah and is called Al-Tayyar (the Flyer, with two wings in Paradise)?",
+   "answer": "Ja'far ibn Abi Talib (RA)",
+   "options": [
+    "Ja'far ibn Abi Talib (RA)",
+    "The Ten (companions) given the glad tidings of Paradise in their lifetime",
+    "Zayd ibn Harithah (RA)",
+    "At Karbala (Iraq)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 126,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who founded the Umayyad Caliphate in 661 CE?",
+   "answer": "Mu'awiyah ibn Abi Sufyan (RA)",
+   "options": [
+    "Yazid ibn Mu'awiyah",
+    "Abu al-Abbas al-Saffah",
+    "Mu'awiyah ibn Abi Sufyan (RA)",
+    "750 CE"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 127,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which city was the capital of the Umayyad Caliphate?",
+   "answer": "Damascus (Syria)",
+   "options": [
+    "Ibn Sina (Avicenna)",
+    "Muhammad ibn Qasim",
+    "Tariq ibn Ziyad",
+    "Damascus (Syria)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 128,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "From 661 to 750 CE — for about how long did the Umayyad Caliphate last?",
+   "answer": "About 89 years",
+   "options": [
+    "1258 CE",
+    "About 89 years",
+    "Al-Ma'mun",
+    "Damascus (Syria)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 129,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "During the rule of which Umayyad ruler did the tragedy of Karbala happen?",
+   "answer": "Yazid ibn Mu'awiyah",
+   "options": [
+    "1258 CE",
+    "The Umayyad Mosque",
+    "762 CE",
+    "Yazid ibn Mu'awiyah"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 130,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "On which date (day and month) was Husayn (RA) martyred at Karbala in 61 AH?",
+   "answer": "10 Muharram (Ashura)",
+   "options": [
+    "Damascus (Syria)",
+    "The Battle of Tours (Poitiers)",
+    "10 Muharram (Ashura)",
+    "Bayt al-Hikmah — the House of Wisdom"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 131,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which Umayyad Caliph built the Dome of the Rock in Jerusalem?",
+   "answer": "Abd al-Malik ibn Marwan",
+   "options": [
+    "Harun al-Rashid",
+    "The Battle of Ayn Jalut (in Palestine)",
+    "Abd al-Malik ibn Marwan",
+    "Ibn Sina (Avicenna)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 132,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which great mosque in Damascus was built in the Umayyad period?",
+   "answer": "The Umayyad Mosque",
+   "options": [
+    "Jabir ibn Hayyan (Geber)",
+    "750 CE",
+    "Bayt al-Hikmah — the House of Wisdom",
+    "The Umayyad Mosque"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 133,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who led the Muslim army across to Spain in 711 CE?",
+   "answer": "Tariq ibn Ziyad",
+   "options": [
+    "Muhammad ibn Musa al-Khwarizmi",
+    "Tariq ibn Ziyad",
+    "Harun al-Rashid",
+    "Jabir ibn Hayyan (Geber)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 134,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "From whose name is 'Gibraltar' (Jabal Tariq — Mountain of Tariq) taken?",
+   "answer": "Tariq ibn Ziyad",
+   "options": [
+    "The Battle of Ayn Jalut (in Palestine)",
+    "Ibn al-Haytham (Alhazen)",
+    "Tariq ibn Ziyad",
+    "Al-Ma'mun"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 135,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who conquered Sindh for Islam in the Umayyad period?",
+   "answer": "Muhammad ibn Qasim",
+   "options": [
+    "The Battle of Tours (Poitiers)",
+    "About 89 years",
+    "Muhammad ibn Qasim",
+    "Al-Mansur"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 136,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "In which battle in France (732 CE) did the Muslim advance into Europe stop?",
+   "answer": "The Battle of Tours (Poitiers)",
+   "options": [
+    "Bayt al-Hikmah — the House of Wisdom",
+    "Jabir ibn Hayyan (Geber)",
+    "Al-Biruni",
+    "The Battle of Tours (Poitiers)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 137,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which pious Umayyad Caliph is often counted as the fifth rightly guided caliph?",
+   "answer": "Umar ibn Abd al-Aziz",
+   "options": [
+    "The Battle of Ayn Jalut (in Palestine)",
+    "Umar ibn Abd al-Aziz",
+    "Al-Biruni",
+    "1258 CE"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 138,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "In which year did the Abbasids replace the Umayyads (CE)?",
+   "answer": "750 CE",
+   "options": [
+    "Muhammad ibn Qasim",
+    "750 CE",
+    "The Battle of Tours (Poitiers)",
+    "Mu'awiyah ibn Abi Sufyan (RA)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 139,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who was the first Abbasid Caliph?",
+   "answer": "Abu al-Abbas al-Saffah",
+   "options": [
+    "Abu al-Abbas al-Saffah",
+    "Al-Musta'sim",
+    "Al-Biruni",
+    "Umar ibn Abd al-Aziz"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 140,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who founded Baghdad, and is called its founder among the Abbasid caliphs?",
+   "answer": "Al-Mansur",
+   "options": [
+    "About 89 years",
+    "Al-Mansur",
+    "Mu'awiyah ibn Abi Sufyan (RA)",
+    "Salahuddin al-Ayyubi (Saladin)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 141,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "In which year was Baghdad founded (CE)?",
+   "answer": "762 CE",
+   "options": [
+    "Jabir ibn Hayyan (Geber)",
+    "Muhammad ibn Musa al-Khwarizmi",
+    "762 CE",
+    "Salahuddin al-Ayyubi (Saladin)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 142,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "By what name was Baghdad known — the City of...?",
+   "answer": "Madinat as-Salam — the City of Peace",
+   "options": [
+    "Madinat as-Salam — the City of Peace",
+    "Tariq ibn Ziyad",
+    "Abu al-Abbas al-Saffah",
+    "750 CE"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 143,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which Abbasid Caliph is famous from the tales of the Arabian Nights and for Baghdad's glory?",
+   "answer": "Harun al-Rashid",
+   "options": [
+    "1258 CE",
+    "Al-Mansur",
+    "Abd al-Malik ibn Marwan",
+    "Harun al-Rashid"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 144,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "What was the famous house of learning and translation in Baghdad called?",
+   "answer": "Bayt al-Hikmah — the House of Wisdom",
+   "options": [
+    "Al-Mansur",
+    "Mu'awiyah ibn Abi Sufyan (RA)",
+    "Ibn Sina (Avicenna)",
+    "Bayt al-Hikmah — the House of Wisdom"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 145,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which Abbasid Caliph developed the House of Wisdom and the translation movement most?",
+   "answer": "Al-Ma'mun",
+   "options": [
+    "Al-Ma'mun",
+    "10 Muharram (Ashura)",
+    "Damascus (Syria)",
+    "Al-Mansur"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 146,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which scholar is called the father of Algebra, from whose book 'Al-Jabr' the word comes?",
+   "answer": "Muhammad ibn Musa al-Khwarizmi",
+   "options": [
+    "Jabir ibn Hayyan (Geber)",
+    "Mu'awiyah ibn Abi Sufyan (RA)",
+    "Muhammad ibn Musa al-Khwarizmi",
+    "Bayt al-Hikmah — the House of Wisdom"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 147,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "From whose name does the word 'algorithm' come?",
+   "answer": "Al-Khwarizmi",
+   "options": [
+    "750 CE",
+    "Al-Biruni",
+    "Al-Khwarizmi",
+    "The Battle of Tours (Poitiers)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 148,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which Muslim scholar wrote 'The Canon of Medicine' (Al-Qanun fi al-Tibb)?",
+   "answer": "Ibn Sina (Avicenna)",
+   "options": [
+    "Bayt al-Hikmah — the House of Wisdom",
+    "Al-Biruni",
+    "Al-Musta'sim",
+    "Ibn Sina (Avicenna)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 149,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which scholar is famous for the science of Optics and his 'Book of Optics'?",
+   "answer": "Ibn al-Haytham (Alhazen)",
+   "options": [
+    "Al-Musta'sim",
+    "Abd al-Malik ibn Marwan",
+    "Ibn al-Haytham (Alhazen)",
+    "Al-Ma'mun"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 150,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which scholar travelled to India and wrote a famous book about its science and culture?",
+   "answer": "Al-Biruni",
+   "options": [
+    "Abd al-Malik ibn Marwan",
+    "The Battle of Tours (Poitiers)",
+    "Muhammad ibn Musa al-Khwarizmi",
+    "Al-Biruni"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 151,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which early scholar is called the father of Chemistry?",
+   "answer": "Jabir ibn Hayyan (Geber)",
+   "options": [
+    "Jabir ibn Hayyan (Geber)",
+    "750 CE",
+    "Tariq ibn Ziyad",
+    "The Battle of Ayn Jalut (in Palestine)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 152,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "In which year did the Mongols under Hulagu destroy Baghdad (CE)?",
+   "answer": "1258 CE",
+   "options": [
+    "Al-Khwarizmi",
+    "1258 CE",
+    "Abd al-Malik ibn Marwan",
+    "Al-Mansur"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 153,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who was the last Abbasid Caliph of Baghdad, killed by the Mongols?",
+   "answer": "Al-Musta'sim",
+   "options": [
+    "Muhammad ibn Qasim",
+    "Abd al-Malik ibn Marwan",
+    "Al-Musta'sim",
+    "762 CE"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 154,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "In which battle (1260 CE) did the Mamluks of Egypt stop the Mongols for the first time?",
+   "answer": "The Battle of Ayn Jalut (in Palestine)",
+   "options": [
+    "Al-Ma'mun",
+    "Bayt al-Hikmah — the House of Wisdom",
+    "Ibn al-Haytham (Alhazen)",
+    "The Battle of Ayn Jalut (in Palestine)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 155,
+   "section": "Umayyad & Abbasid",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who recaptured Jerusalem from the Crusaders in 1187 CE?",
+   "answer": "Salahuddin al-Ayyubi (Saladin)",
+   "options": [
+    "Al-Mansur",
+    "750 CE",
+    "Salahuddin al-Ayyubi (Saladin)",
+    "The Battle of Ayn Jalut (in Palestine)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 156,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "What was Muslim Spain called?",
+   "answer": "Al-Andalus",
+   "options": [
+    "The Battle of Hattin",
+    "Al-Andalus",
+    "Babur",
+    "Muhammad XII (Boabdil)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 157,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which Spanish city was the capital of Umayyad Al-Andalus and a great centre of learning?",
+   "answer": "Cordoba",
+   "options": [
+    "Nuruddin Zengi",
+    "Abd al-Rahman I (al-Dakhil)",
+    "Cordoba",
+    "Babur"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 158,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which Umayyad prince escaped to Spain and founded the Emirate of Cordoba in 756 CE?",
+   "answer": "Abd al-Rahman I (al-Dakhil)",
+   "options": [
+    "Cordoba",
+    "Konya (in present-day Turkiye)",
+    "Abd al-Rahman I (al-Dakhil)",
+    "Tipu Sultan"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 159,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which famous palace-city in Granada, Spain, was built by the Nasrid rulers?",
+   "answer": "The Alhambra",
+   "options": [
+    "Richard I (Richard the Lionheart)",
+    "The Battle of Hattin",
+    "The Alhambra",
+    "Al-Andalus"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 160,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "In which year did Muslim rule in Spain end with the fall of Granada (CE)?",
+   "answer": "1492 CE",
+   "options": [
+    "Ibn Khaldun",
+    "Nuruddin Zengi",
+    "Tipu Sultan",
+    "1492 CE"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 161,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who was the last Muslim ruler of Granada?",
+   "answer": "Muhammad XII (Boabdil)",
+   "options": [
+    "Nuruddin Zengi",
+    "Shah Jahan",
+    "Ibn Rushd",
+    "Muhammad XII (Boabdil)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 162,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which Cordoba philosopher is known in the West as Averroes, famous for his commentaries on Aristotle?",
+   "answer": "Ibn Rushd",
+   "options": [
+    "Ibn Rushd",
+    "Tipu Sultan",
+    "Al-Andalus",
+    "The Alhambra"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 163,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which famous Muslim traveller from Morocco travelled for about 30 years and wrote the 'Rihla'?",
+   "answer": "Ibn Battuta",
+   "options": [
+    "Ibn Khaldun",
+    "Muhammad XII (Boabdil)",
+    "His wife Mumtaz Mahal",
+    "Ibn Battuta"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 164,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which North African historian wrote the 'Muqaddimah' and is called the father of Sociology and Historiography?",
+   "answer": "Ibn Khaldun",
+   "options": [
+    "Konya (in present-day Turkiye)",
+    "1099 CE",
+    "Akbar",
+    "Ibn Khaldun"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 165,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "In which year did the Crusaders first capture Jerusalem (CE)?",
+   "answer": "1099 CE",
+   "options": [
+    "The Battle of Hattin",
+    "1099 CE",
+    "His wife Mumtaz Mahal",
+    "Timbuktu"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 166,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which leader united Muslim Syria before Salahuddin and fought the Crusaders?",
+   "answer": "Nuruddin Zengi",
+   "options": [
+    "1206 CE",
+    "Muhammad XII (Boabdil)",
+    "Nuruddin Zengi",
+    "Alp Arslan"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 167,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which battle in 1187 CE opened the way for Salahuddin to retake Jerusalem?",
+   "answer": "The Battle of Hattin",
+   "options": [
+    "Shah Jahan",
+    "Ibn Rushd",
+    "The Battle of Hattin",
+    "Babur"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 168,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "With which English king, called 'the Lionheart', did Salahuddin deal during the Third Crusade?",
+   "answer": "Richard I (Richard the Lionheart)",
+   "options": [
+    "Abd al-Rahman I (al-Dakhil)",
+    "Timbuktu",
+    "Ibn Battuta",
+    "Richard I (Richard the Lionheart)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 169,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which Seljuk Sultan defeated the Byzantines at Manzikert in 1071 CE, opening Anatolia to Islam?",
+   "answer": "Alp Arslan",
+   "options": [
+    "1492 CE",
+    "1206 CE",
+    "Konya (in present-day Turkiye)",
+    "Alp Arslan"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 170,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "In which city did the great poet Jalaluddin Rumi live and where is his tomb?",
+   "answer": "Konya (in present-day Turkiye)",
+   "options": [
+    "Ibn Khaldun",
+    "Muhammad XII (Boabdil)",
+    "Ibn Rushd",
+    "Konya (in present-day Turkiye)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 171,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which West African king made a famous Hajj in 1324 CE and spread gold generously on the way?",
+   "answer": "Mansa Musa of Mali",
+   "options": [
+    "Mansa Musa of Mali",
+    "Konya (in present-day Turkiye)",
+    "1206 CE",
+    "Ibn Rushd"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 172,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which African city became a centre of Islamic learning with the Sankore Madrasa and thousands of manuscripts?",
+   "answer": "Timbuktu",
+   "options": [
+    "Ibn Battuta",
+    "1206 CE",
+    "Timbuktu",
+    "Tipu Sultan"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 173,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "In which year was the Delhi Sultanate established in India (CE)?",
+   "answer": "1206 CE",
+   "options": [
+    "Al-Andalus",
+    "Muhammad XII (Boabdil)",
+    "1206 CE",
+    "His wife Mumtaz Mahal"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 174,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who founded the Delhi Sultanate?",
+   "answer": "Qutb al-Din Aibak",
+   "options": [
+    "Mansa Musa of Mali",
+    "Qutb al-Din Aibak",
+    "Cordoba",
+    "The Alhambra"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 175,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who founded the Mughal Empire in India by winning the First Battle of Panipat in 1526 CE?",
+   "answer": "Babur",
+   "options": [
+    "Nuruddin Zengi",
+    "Ibn Khaldun",
+    "Abd al-Rahman I (al-Dakhil)",
+    "Babur"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 176,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which Mughal emperor is considered the greatest, famous for Fatehpur Sikri?",
+   "answer": "Akbar",
+   "options": [
+    "Akbar",
+    "Ibn Khaldun",
+    "1206 CE",
+    "Shah Jahan"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 177,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which Mughal emperor built the Taj Mahal?",
+   "answer": "Shah Jahan",
+   "options": [
+    "Qutb al-Din Aibak",
+    "Shah Jahan",
+    "Richard I (Richard the Lionheart)",
+    "Ibn Khaldun"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 178,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "For whom was the Taj Mahal built?",
+   "answer": "His wife Mumtaz Mahal",
+   "options": [
+    "Konya (in present-day Turkiye)",
+    "Alp Arslan",
+    "The Alhambra",
+    "His wife Mumtaz Mahal"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 179,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which Mysore ruler, called the Tiger of Mysore, died fighting the British in 1799 CE?",
+   "answer": "Tipu Sultan",
+   "options": [
+    "Tipu Sultan",
+    "Cordoba",
+    "Ibn Battuta",
+    "Through Muslim traders and Sufi scholars"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 180,
+   "section": "Andalus & World",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "By what peaceful means did Islam spread widely to South-East Asia and coastal East Africa?",
+   "answer": "Through Muslim traders and Sufi scholars",
+   "options": [
+    "Through Muslim traders and Sufi scholars",
+    "Cordoba",
+    "Richard I (Richard the Lionheart)",
+    "Konya (in present-day Turkiye)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 181,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who founded the Ottoman state around 1299 CE?",
+   "answer": "Osman I (Uthman) — from whom the name 'Ottoman' comes",
+   "options": [
+    "Suleiman the Magnificent (Suleiman al-Qanuni, the Lawgiver)",
+    "1683 CE",
+    "Constantinople — renamed Istanbul",
+    "Osman I (Uthman) — from whom the name 'Ottoman' comes"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 182,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which city, conquered in 1453 CE, became the Ottoman capital?",
+   "answer": "Constantinople — renamed Istanbul",
+   "options": [
+    "Allama Muhammad Iqbal Talk)",
+    "1683 CE",
+    "Imam Muhammad al-Bukhari",
+    "Constantinople — renamed Istanbul"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 183,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which Ottoman Sultan conquered Constantinople in 1453 CE?",
+   "answer": "Sultan Mehmed II — Mehmed the Conqueror",
+   "options": [
+    "21 years old",
+    "The University of al-Qarawiyyin",
+    "Sultan Mehmed II — Mehmed the Conqueror",
+    "Imam Muhammad al-Bukhari"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 184,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "How old was Mehmed the Conqueror, approximately, when he took Constantinople?",
+   "answer": "21 years old",
+   "options": [
+    "Sultan Selim I",
+    "The Battle of Lepanto",
+    "21 years old",
+    "1683 CE"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 185,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which empire came to an end with the fall of Constantinople in 1453 CE?",
+   "answer": "The Byzantine (Eastern Roman) Empire",
+   "options": [
+    "The Byzantine (Eastern Roman) Empire",
+    "21 years old",
+    "Imam al-Shafi'i",
+    "Imam Abu Hanifah"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 186,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which Ottoman Sultan took Makkah, Madinah and Egypt in 1517 CE and became custodian of the holy cities?",
+   "answer": "Sultan Selim I",
+   "options": [
+    "Bukhara (in present-day Uzbekistan)",
+    "Sultan Selim I",
+    "1922 CE",
+    "1683 CE"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 187,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who was the longest-reigning Ottoman Sultan (1520–1566 CE)?",
+   "answer": "Suleiman the Magnificent (Suleiman al-Qanuni, the Lawgiver)",
+   "options": [
+    "Hujjat al-Islam — the Proof of Islam",
+    "Imam Ahmad ibn Hanbal",
+    "Fatima al-Fihri — a Muslim woman",
+    "Suleiman the Magnificent (Suleiman al-Qanuni, the Lawgiver)"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 188,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who was the greatest Ottoman architect, builder of the Selimiye Mosque in Edirne?",
+   "answer": "Mimar Sinan",
+   "options": [
+    "Imam al-Shafi'i",
+    "Imam Malik ibn Anas",
+    "Mimar Sinan",
+    "Sultan Mehmed II — Mehmed the Conqueror"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 189,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "In which famous naval battle of 1571 CE were the Ottomans defeated at sea?",
+   "answer": "The Battle of Lepanto",
+   "options": [
+    "The Battle of Lepanto",
+    "Suleiman the Magnificent (Suleiman al-Qanuni, the Lawgiver)",
+    "Imam Malik ibn Anas",
+    "The Byzantine (Eastern Roman) Empire"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 190,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "In which year was the last great Ottoman siege of Vienna turned back (CE)?",
+   "answer": "1683 CE",
+   "options": [
+    "Imam Ahmad ibn Hanbal",
+    "With Germany and the Central Powers",
+    "1683 CE",
+    "Mimar Sinan"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 191,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "For about how many years did the Ottoman state last (1299–1922 CE)?",
+   "answer": "More than 600 years",
+   "options": [
+    "Imam Ahmad ibn Hanbal",
+    "Sultan Selim I",
+    "More than 600 years",
+    "Bukhara (in present-day Uzbekistan)"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 192,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "In which year was the Ottoman Sultanate abolished (CE)?",
+   "answer": "1922 CE",
+   "options": [
+    "1922 CE",
+    "The Byzantine (Eastern Roman) Empire",
+    "The Battle of Lepanto",
+    "Allama Muhammad Iqbal Talk)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 193,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "In which year was the Ottoman Caliphate abolished (CE)?",
+   "answer": "1924 CE",
+   "options": [
+    "Imam Abu Hanifah",
+    "1924 CE",
+    "Sultan Selim I",
+    "Bukhara (in present-day Uzbekistan)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 194,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "On which side did the Ottoman Empire fight in the First World War?",
+   "answer": "With Germany and the Central Powers",
+   "options": [
+    "Fatima al-Fihri — a Muslim woman",
+    "With Germany and the Central Powers",
+    "More than 600 years",
+    "Imam Ahmad ibn Hanbal"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 195,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which is recognised by UNESCO and Guinness as the oldest existing university in the world, founded in Fez, Morocco in 859 CE?",
+   "answer": "The University of al-Qarawiyyin",
+   "options": [
+    "The University of al-Qarawiyyin",
+    "Hujjat al-Islam — the Proof of Islam",
+    "With Germany and the Central Powers",
+    "Al-Kutub as-Sittah (the Six Books) — also called Sihah Sittah"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 196,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who founded the University of al-Qarawiyyin?",
+   "answer": "Fatima al-Fihri — a Muslim woman",
+   "options": [
+    "With Germany and the Central Powers",
+    "Imam Malik ibn Anas",
+    "The University of al-Qarawiyyin",
+    "Fatima al-Fihri — a Muslim woman"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 197,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which famous university-mosque in Cairo was founded in the Fatimid period (around 970 CE)?",
+   "answer": "Al-Azhar",
+   "options": [
+    "1924 CE",
+    "The Battle of Lepanto",
+    "Hujjat al-Islam — the Proof of Islam",
+    "Al-Azhar"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 198,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which famous madrasa in Baghdad was founded by the vizier Nizam al-Mulk in 1065 CE?",
+   "answer": "The Nizamiyya Madrasa",
+   "options": [
+    "1924 CE",
+    "Fatima al-Fihri — a Muslim woman",
+    "Suleiman the Magnificent (Suleiman al-Qanuni, the Lawgiver)",
+    "The Nizamiyya Madrasa"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 199,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which great scholar taught at the Nizamiyya and wrote 'Ihya Ulum al-Din' (Revival of the Religious Sciences)?",
+   "answer": "Imam al-Ghazali",
+   "options": [
+    "Imam al-Ghazali",
+    "1924 CE",
+    "The Byzantine (Eastern Roman) Empire",
+    "Sultan Selim I"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 200,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "What title is Imam al-Ghazali known by?",
+   "answer": "Hujjat al-Islam — the Proof of Islam",
+   "options": [
+    "More than 600 years",
+    "Osman I (Uthman) — from whom the name 'Ottoman' comes",
+    "Hujjat al-Islam — the Proof of Islam",
+    "1683 CE"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 201,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who is the founder (Imam) of the Hanafi school of fiqh, from Kufa?",
+   "answer": "Imam Abu Hanifah",
+   "options": [
+    "Imam Abu Hanifah",
+    "The University of al-Qarawiyyin",
+    "Imam Muhammad al-Bukhari",
+    "1924 CE"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 202,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who is the Imam of the Maliki school, author of 'Al-Muwatta' in Madinah?",
+   "answer": "Imam Malik ibn Anas",
+   "options": [
+    "Imam Malik ibn Anas",
+    "With Germany and the Central Powers",
+    "Sultan Selim I",
+    "Imam Muslim ibn al-Hajjaj (of Nishapur)"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 203,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who is the Imam who systematised Usul al-Fiqh in his book 'Ar-Risala'?",
+   "answer": "Imam al-Shafi'i",
+   "options": [
+    "Imam Abu Hanifah",
+    "More than 600 years",
+    "Shah Waliullah of Delhi",
+    "Imam al-Shafi'i"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 204,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who is the Imam of the Hanbali school, famous for the 'Musnad' and for his firmness in the Mihna?",
+   "answer": "Imam Ahmad ibn Hanbal",
+   "options": [
+    "Imam Muslim ibn al-Hajjaj (of Nishapur)",
+    "Imam Abu Hanifah",
+    "Imam Ahmad ibn Hanbal",
+    "More than 600 years"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 205,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who compiled 'Sahih al-Bukhari', the most authentic book of Hadith?",
+   "answer": "Imam Muhammad al-Bukhari",
+   "options": [
+    "Constantinople — renamed Istanbul",
+    "Imam Muhammad al-Bukhari",
+    "Imam Ahmad ibn Hanbal",
+    "Shah Waliullah of Delhi"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 206,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "From which city/region did Imam Bukhari come?",
+   "answer": "Bukhara (in present-day Uzbekistan)",
+   "options": [
+    "Mimar Sinan",
+    "The Battle of Lepanto",
+    "Bukhara (in present-day Uzbekistan)",
+    "1924 CE"
+   ],
+   "correct_index": 2
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 207,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who compiled the second most famous Sahih collection of Hadith, 'Sahih Muslim'?",
+   "answer": "Imam Muslim ibn al-Hajjaj (of Nishapur)",
+   "options": [
+    "Imam Muhammad al-Bukhari",
+    "Imam Muslim ibn al-Hajjaj (of Nishapur)",
+    "Sultan Selim I",
+    "Allama Muhammad Iqbal Talk)"
+   ],
+   "correct_index": 1
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 208,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "What are the six famous canonical books of Hadith together called in Arabic?",
+   "answer": "Al-Kutub as-Sittah (the Six Books) — also called Sihah Sittah",
+   "options": [
+    "Al-Kutub as-Sittah (the Six Books) — also called Sihah Sittah",
+    "Mimar Sinan",
+    "Sultan Mehmed II — Mehmed the Conqueror",
+    "Fatima al-Fihri — a Muslim woman"
+   ],
+   "correct_index": 0
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 209,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Who translated the Qur'an into Persian in India, and whose sons translated it into Urdu?",
+   "answer": "Shah Waliullah of Delhi",
+   "options": [
+    "Imam Malik ibn Anas",
+    "Osman I (Uthman) — from whom the name 'Ottoman' comes",
+    "Suleiman the Magnificent (Suleiman al-Qanuni, the Lawgiver)",
+    "Shah Waliullah of Delhi"
+   ],
+   "correct_index": 3
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 210,
+   "section": "Ottoman & Scholars",
+   "category": "Islamic History",
+   "level": "Ula",
+   "question": "Which poet-philosopher of India gave the Allahabad Address in 1930 and wrote 'Shikwa' and 'Jawab- e-Shikwa'?",
+   "answer": "Allama Muhammad Iqbal Talk)",
+   "options": [
+    "Sultan Selim I",
+    "The Battle of Lepanto",
+    "More than 600 years",
+    "Allama Muhammad Iqbal Talk)"
+   ],
+   "correct_index": 3
+  }
+ ],
+ "skipped": [
+  {
+   "source": "IslamicHistory",
+   "number": 42,
+   "reason": "multi-name list answer",
+   "answer": "Nuh, Ibrahim, Musa, Isa and Muhammad"
+  },
+  {
+   "source": "IslamicHistory",
+   "number": 103,
+   "reason": "answer too long (92 chars)",
+   "answer": "Talha ibn Ubaydullah, Zubayr ibn al-Awwam, Abdur Rahman ibn Awf and Sa'd ibn Abi Waqqas (RA)"
+  }
+ ]
+}
