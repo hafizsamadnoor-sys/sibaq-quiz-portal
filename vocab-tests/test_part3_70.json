@@ -1,0 +1,1609 @@
+{
+ "title": "UNO17 Vocabulary Test — Part 3 · Arabic → English + Urdu (Words 141–210)",
+ "level": "Ula",
+ "programme": "UNO17 Vocabulary",
+ "category": "Vocabulary",
+ "type": "write2",
+ "time_minutes": 40,
+ "points_per_correct": 1,
+ "total_points": 140,
+ "questions": [
+  {
+   "ref": "animals_birds-036",
+   "global_no": 141,
+   "prompt_lang": "ar",
+   "prompt": "تمساح",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Crocodile"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "مگرمچھ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-037",
+   "global_no": 142,
+   "prompt_lang": "ar",
+   "prompt": "سلحفاة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Tortoise / Turtle",
+      "Tortoise",
+      "Turtle"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "کچھوا",
+      "سنگ پشت"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-038",
+   "global_no": 143,
+   "prompt_lang": "ar",
+   "prompt": "ثعبان",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Snake / Serpent",
+      "Snake",
+      "Serpent"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "سانپ",
+      "مار"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-039",
+   "global_no": 144,
+   "prompt_lang": "ar",
+   "prompt": "كوبرا",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Cobra"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ناگ",
+      "کوبرا"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-040",
+   "global_no": 145,
+   "prompt_lang": "ar",
+   "prompt": "سحلية",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Lizard / Chameleon",
+      "Lizard",
+      "Chameleon"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "چھپکلی",
+      "گرگٹ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-041",
+   "global_no": 146,
+   "prompt_lang": "ar",
+   "prompt": "ضفدع",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Frog / Toad",
+      "Frog",
+      "Toad"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "مینڈک"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-042",
+   "global_no": 147,
+   "prompt_lang": "ar",
+   "prompt": "حوت",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Whale"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "وہیل",
+      "حوت"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-043",
+   "global_no": 148,
+   "prompt_lang": "ar",
+   "prompt": "قرش",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Shark"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "شارک"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-044",
+   "global_no": 149,
+   "prompt_lang": "ar",
+   "prompt": "دلفين",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Dolphin"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ڈولفن"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-045",
+   "global_no": 150,
+   "prompt_lang": "ar",
+   "prompt": "نحلة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Honeybee"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "شہد کی مکھی"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-046",
+   "global_no": 151,
+   "prompt_lang": "ar",
+   "prompt": "نملة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Ant"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "چیونٹی",
+      "مورچہ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-047",
+   "global_no": 152,
+   "prompt_lang": "ar",
+   "prompt": "بعوضة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Mosquito"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "مچھر"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-048",
+   "global_no": 153,
+   "prompt_lang": "ar",
+   "prompt": "ذبابة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Housefly"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "مکھی"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-049",
+   "global_no": 154,
+   "prompt_lang": "ar",
+   "prompt": "عنكبوت",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Spider"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "مکڑی"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-050",
+   "global_no": 155,
+   "prompt_lang": "ar",
+   "prompt": "عقرب",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Scorpion"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "بچھو",
+      "عقرب"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-051",
+   "global_no": 156,
+   "prompt_lang": "ar",
+   "prompt": "فراشة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Butterfly"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "تتلی"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-052",
+   "global_no": 157,
+   "prompt_lang": "ar",
+   "prompt": "جرادة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Grasshopper"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ٹڈی"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-053",
+   "global_no": 158,
+   "prompt_lang": "ar",
+   "prompt": "طائر",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Bird / Fowl",
+      "Bird",
+      "Fowl"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "پرندہ",
+      "طائر"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-054",
+   "global_no": 159,
+   "prompt_lang": "ar",
+   "prompt": "عقاب",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Eagle"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "عقاب"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-055",
+   "global_no": 160,
+   "prompt_lang": "ar",
+   "prompt": "نسر",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Vulture"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "گدھ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-056",
+   "global_no": 161,
+   "prompt_lang": "ar",
+   "prompt": "صقر",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Falcon / Hawk",
+      "Falcon",
+      "Hawk"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "باز",
+      "شاہین"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-057",
+   "global_no": 162,
+   "prompt_lang": "ar",
+   "prompt": "حدأة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Kite (Bird)"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "چیل"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-058",
+   "global_no": 163,
+   "prompt_lang": "ar",
+   "prompt": "بومة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Owl"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "الو",
+      "بوم"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-059",
+   "global_no": 164,
+   "prompt_lang": "ar",
+   "prompt": "تم",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Swan"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "راج ہنس"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-060",
+   "global_no": 165,
+   "prompt_lang": "ar",
+   "prompt": "بطة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Duck"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "بطخ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-061",
+   "global_no": 166,
+   "prompt_lang": "ar",
+   "prompt": "إوزة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Goose"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "قاز"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-062",
+   "global_no": 167,
+   "prompt_lang": "ar",
+   "prompt": "نحام",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Flamingo"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "فلیمنگو"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-063",
+   "global_no": 168,
+   "prompt_lang": "ar",
+   "prompt": "بجعة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Pelican"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ہواصیل",
+      "پیلیکن"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-064",
+   "global_no": 169,
+   "prompt_lang": "ar",
+   "prompt": "لقلق",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Stork"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "لقلق"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-065",
+   "global_no": 170,
+   "prompt_lang": "ar",
+   "prompt": "مالك الحزين",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Heron / Egret",
+      "Heron",
+      "Egret"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "بگلا"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-066",
+   "global_no": 171,
+   "prompt_lang": "ar",
+   "prompt": "كركي",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Crane"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "سارس",
+      "کلنگ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-067",
+   "global_no": 172,
+   "prompt_lang": "ar",
+   "prompt": "رفراف",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Kingfisher"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ماہی خور",
+      "رام چڑیا"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-068",
+   "global_no": 173,
+   "prompt_lang": "ar",
+   "prompt": "نورس",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Seagull"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "نورس"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-069",
+   "global_no": 174,
+   "prompt_lang": "ar",
+   "prompt": "بطريق",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Penguin"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "پینگوئن"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-070",
+   "global_no": 175,
+   "prompt_lang": "ar",
+   "prompt": "نعامة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Ostrich"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "شترمرغ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-071",
+   "global_no": 176,
+   "prompt_lang": "ar",
+   "prompt": "طاووس (ذكر)",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Peacock"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "مور"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-072",
+   "global_no": 177,
+   "prompt_lang": "ar",
+   "prompt": "دجاجة الطاووس",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Peahen"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "مورنی"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-073",
+   "global_no": 178,
+   "prompt_lang": "ar",
+   "prompt": "ديك",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Rooster / Cock",
+      "Rooster",
+      "Cock"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "مرغا"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-074",
+   "global_no": 179,
+   "prompt_lang": "ar",
+   "prompt": "دجاجة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Hen"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "مرغی"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-075",
+   "global_no": 180,
+   "prompt_lang": "ar",
+   "prompt": "كتكوت",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Chick"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "چوزہ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-076",
+   "global_no": 181,
+   "prompt_lang": "ar",
+   "prompt": "ديك رومي",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Turkey"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "فیل مرغ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-077",
+   "global_no": 182,
+   "prompt_lang": "ar",
+   "prompt": "سمانى",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Quail"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "بٹیر"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-078",
+   "global_no": 183,
+   "prompt_lang": "ar",
+   "prompt": "حمامة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Pigeon"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "کبوتر"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-079",
+   "global_no": 184,
+   "prompt_lang": "ar",
+   "prompt": "يمامة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Dove"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "فاختہ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-080",
+   "global_no": 185,
+   "prompt_lang": "ar",
+   "prompt": "غراب",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Crow"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "کوا"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-081",
+   "global_no": 186,
+   "prompt_lang": "ar",
+   "prompt": "غراب أعصم",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Raven"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "زاغ",
+      "کالا کوا"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-082",
+   "global_no": 187,
+   "prompt_lang": "ar",
+   "prompt": "ببغاء",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Parrot"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "طوطا"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-083",
+   "global_no": 188,
+   "prompt_lang": "ar",
+   "prompt": "عصفور دوري",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Sparrow"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "چڑیا"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-084",
+   "global_no": 189,
+   "prompt_lang": "ar",
+   "prompt": "بلبل",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Nightingale"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "بلبل",
+      "عندلیب"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-085",
+   "global_no": 190,
+   "prompt_lang": "ar",
+   "prompt": "وقواق",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Cuckoo"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "کوئل"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-086",
+   "global_no": 191,
+   "prompt_lang": "ar",
+   "prompt": "نقار الخشب",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Woodpecker"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "کٹھ پھوڑا"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-087",
+   "global_no": 192,
+   "prompt_lang": "ar",
+   "prompt": "خطاف",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Swallow"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ابابیل"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-088",
+   "global_no": 193,
+   "prompt_lang": "ar",
+   "prompt": "قبرة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Lark"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "چکاوک",
+      "لاوا"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-089",
+   "global_no": 194,
+   "prompt_lang": "ar",
+   "prompt": "كناري",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Canary"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "کناری"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-090",
+   "global_no": 195,
+   "prompt_lang": "ar",
+   "prompt": "طائر الحباك",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Weaver bird"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "بیا",
+      "جولاہا چڑیا"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-091",
+   "global_no": 196,
+   "prompt_lang": "ar",
+   "prompt": "أبو قرن",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Hornbill"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "دھنیش",
+      "بوق مرغ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-092",
+   "global_no": 197,
+   "prompt_lang": "ar",
+   "prompt": "حجل",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Partridge"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "تیتر",
+      "چکور"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-093",
+   "global_no": 198,
+   "prompt_lang": "ar",
+   "prompt": "مينا",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Myna"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "مینا"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-094",
+   "global_no": 199,
+   "prompt_lang": "ar",
+   "prompt": "منقار",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Beak / Bill",
+      "Beak",
+      "Bill"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "چونچ",
+      "منقار"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-095",
+   "global_no": 200,
+   "prompt_lang": "ar",
+   "prompt": "ريشة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Feather / Plume",
+      "Feather",
+      "Plume"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "پر",
+      "پنکھ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-096",
+   "global_no": 201,
+   "prompt_lang": "ar",
+   "prompt": "جناح",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Wing"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "بازو",
+      "پر"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-097",
+   "global_no": 202,
+   "prompt_lang": "ar",
+   "prompt": "ذيل",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Tail (Avian)"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "دم"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-098",
+   "global_no": 203,
+   "prompt_lang": "ar",
+   "prompt": "مخلب",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Claw / Talon",
+      "Claw",
+      "Talon"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "پنجہ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-099",
+   "global_no": 204,
+   "prompt_lang": "ar",
+   "prompt": "عش",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Bird Nest"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "گھونسلہ",
+      "آشیانہ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-100",
+   "global_no": 205,
+   "prompt_lang": "ar",
+   "prompt": "بيضة",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Egg / Clutch",
+      "Egg",
+      "Clutch"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "انڈہ",
+      "بیضہ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-101",
+   "global_no": 206,
+   "prompt_lang": "ar",
+   "prompt": "فقس",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "To hatch / Incubate",
+      "To hatch",
+      "Incubate"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "بچہ نکلنا",
+      "سینا"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-102",
+   "global_no": 207,
+   "prompt_lang": "ar",
+   "prompt": "حلق",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "To soar / Glide",
+      "To soar",
+      "Glide"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "پرواز کرنا",
+      "اڑنا"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-103",
+   "global_no": 208,
+   "prompt_lang": "ar",
+   "prompt": "تغريد",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Birdsong / Chirp",
+      "Birdsong",
+      "Chirp"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "نغمہ",
+      "چہچہاہٹ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-104",
+   "global_no": 209,
+   "prompt_lang": "ar",
+   "prompt": "سرب طيور",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Flock of birds"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "پرندوں کا غول"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-105",
+   "global_no": 210,
+   "prompt_lang": "ar",
+   "prompt": "هجرة الطيور",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Avian migration"
+     ]
+    },
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "پرندوں کی نقل مکانی"
+     ]
+    }
+   ]
+  }
+ ]
+}
