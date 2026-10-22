@@ -1,0 +1,77 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Take Quiz · SIBAQ Quiz Portal</title>
+<link rel="stylesheet" href="/style.css"><script src="/app.js"></script></head>
+<body><div id="hdr"></div><div class="wrap"><div id="box"><p class="muted">Loading…</p></div></div><div id="ftr"></div>
+<script>
+const params=new URLSearchParams(location.search);
+const quizId=params.get("id"), mode=params.get("mode")==="exam"?"exam":"practice";
+let questions=[], answers={}, timerInt=null, quizType="mcq";
+const RTL_LANGS=["ar","ur","arabic","urdu"];
+const isRTL=lang=>RTL_LANGS.includes(String(lang||"").toLowerCase());
+(async()=>{ const g=await guard("student"); if(!g) return;
+  document.getElementById("hdr").innerHTML=header("dashboard.html");
+  document.getElementById("ftr").innerHTML=footer();
+  try{
+    const d=await api("GET","/api/quizzes/"+quizId);
+    if(mode==="exam"&&d.exam_done){ document.getElementById("box").innerHTML=`<div class="card"><h1>🏆 ${esc(d.quiz.title)}</h1><p>You have already taken this exam (1 attempt only). See <a href="results.html">My Results</a>.</p></div>`; return; }
+    questions=d.questions; quizType=d.quiz.type||"mcq";
+    const box=document.getElementById("box");
+    const unitNote = quizType==="write2" ? ` · ✍️ Written: ${d.quiz.points_per_box||1} pt per correct box` : "";
+    box.innerHTML=`<div class="timerbar"><span>⏳ <span id="timer">${d.quiz.time_minutes}:00</span></span><span id="prog">Answered 0/${questions.length}</span><span>${mode==="exam"?"🏆 Exam":"🎯 Practice"}</span></div>
+    <h1>${esc(d.quiz.title)}</h1><p class="muted">${esc(d.quiz.level)} · ${esc(d.quiz.programme)} · ${esc(d.quiz.category)}${unitNote}${mode==="practice"?" · Practice: tap “Check” for instant right/wrong.":" · Exam: 1 attempt only — answers are final."}</p>
+    ${questions.map((q,i)=> quizType==="write2" ? `
+    <div class="card" id="qc${q.id}"><h3>Q${i+1}.</h3>
+      <p class="${isRTL(q.prompt_lang)?"prompt-rtl":"prompt-ltr"}" ${isRTL(q.prompt_lang)?'dir="rtl"':''}>${esc(q.prompt)}</p>
+      ${q.boxes.map((b,j)=>`<label>${esc(b.label)}</label>
+        <input id="w${q.id}_${j}" class="${isRTL(b.lang)?"script-rtl":"script-ltr"}" dir="${isRTL(b.lang)?"rtl":"ltr"}" lang="${esc(b.lang)}"
+          placeholder="${esc(b.label)}" oninput="pickW(${q.id})">
+        <div class="boxfb" id="fb${q.id}_${j}"></div>`).join("")}
+      ${mode==="practice"?`<button class="btn small ghost" onclick="checkW(${q.id})">Check ✓</button>`:""}
+    </div>` : `
+    <div class="card" id="qc${q.id}"><h3>Q${i+1}. ${esc(q.question)}</h3>
+      ${q.options.map((o,j)=>`<button class="opt" id="opt${q.id}_${j}" onclick="pick(${q.id},${j})">${"ABCD"[j]}. ${esc(o)}</button>`).join("")}
+      ${mode==="practice"?`<button class="btn small ghost" onclick="checkQ(${q.id})">Check ✓</button> <span id="fb${q.id}"></span>`:""}
+    </div>`).join("")}
+    <button class="btn success" style="width:100%" onclick="submitQuiz(false)">Submit ${mode==="exam"?"Exam":"Practice"} ✅</button>`;
+    let secs=d.quiz.time_minutes*60;
+    timerInt=setInterval(()=>{ secs--; const m=Math.floor(secs/60), s=secs%60;
+      const el=document.getElementById("timer"); if(el) el.textContent=`${m}:${String(s).padStart(2,"0")}`;
+      if(secs<=0){ clearInterval(timerInt); submitQuiz(true); } },1000);
+  }catch(e){ document.getElementById("box").innerHTML=`<div class="card"><p>❌ ${esc(e.message)}</p><a class="btn" href="dashboard.html">← Back</a></div>`; }
+})();
+function updProg(){ document.getElementById("prog").textContent=`Answered ${Object.keys(answers).length}/${questions.length}`; }
+function pick(qid,j){ answers[qid]=j; const q=questions.find(x=>x.id===qid);
+  q.options.forEach((_,k)=>{ const el=document.getElementById(`opt${qid}_${k}`); if(el) el.classList.toggle("sel",k===j); }); updProg(); }
+function pickW(qid){ const q=questions.find(x=>x.id===qid);
+  answers[qid]=q.boxes.map((_,j)=>document.getElementById(`w${qid}_${j}`).value); updProg(); }
+async function checkQ(qid){ if(answers[qid]===undefined){ toast("Pick an answer first",false); return; }
+  try{ const r=await api("POST",`/api/quizzes/${quizId}/check`,{question_id:qid,selected:answers[qid]});
+    const fb=document.getElementById("fb"+qid); fb.innerHTML=r.correct?`<span class="pill live">✅ Correct!</span>`:`<span class="pill warn">❌ Wrong — correct: ${"ABCD"[r.correct_index]}</span>`;
+    questions.find(x=>x.id===qid).options.forEach((_,k)=>{ const el=document.getElementById(`opt${qid}_${k}`); if(!el) return;
+      el.classList.remove("right","wrong"); if(k===r.correct_index) el.classList.add("right"); else if(k===answers[qid]&&!r.correct) el.classList.add("wrong"); });
+  }catch(e){ toast(e.message,false); } }
+async function checkW(qid){ pickW(qid);
+  try{ const r=await api("POST",`/api/quizzes/${quizId}/check`,{question_id:qid,answers:answers[qid]||[]});
+    r.boxes.forEach((b,j)=>{ const fb=document.getElementById(`fb${qid}_${j}`); if(!fb) return;
+      fb.innerHTML=b.correct?`<span class="pill live">✅ Correct!</span>`:`<span class="pill warn">❌ Wrong — correct: ${esc((b.correct_answers||[]).join(" / "))}</span>`; });
+  }catch(e){ toast(e.message,false); } }
+async function submitQuiz(auto){ if(timerInt) clearInterval(timerInt);
+  if(quizType==="write2") questions.forEach(q=>pickW(q.id));
+  try{ const r=await api("POST",`/api/quizzes/${quizId}/submit`,{mode,answers});
+    const pct=r.total?Math.round(100*r.score/r.total):0;
+    let detailHtml="";
+    if(r.type==="write2"||quizType==="write2"){
+      detailHtml=r.detail.map((x,i)=>`<div style="border-bottom:1px solid var(--line);padding:8px 0"><b>Q${i+1}.</b>
+        <span class="${isRTL(x.prompt_lang)?"prompt-rtl":""}" ${isRTL(x.prompt_lang)?'dir="rtl"':''} style="${isRTL(x.prompt_lang)?"font-size:1.15rem":""}">${esc(x.prompt)}</span>
+        ${x.boxes.map(b=>`<br>${b.correct?"✅":"❌"} <b>${esc(b.label)}:</b> ${esc(b.given||"—")} <span class="muted">· Correct: ${esc((b.correct_answers||[]).join(" / "))}</span>`).join("")}</div>`).join("");
+    } else {
+      detailHtml=r.detail.map((x,i)=>`<p>${x.correct?"✅":"❌"} <b>Q${i+1}.</b> ${esc(x.question)}<br><span class="muted">Your answer: ${x.given>=0?esc(x.options[x.given]):"—"} · Correct: ${esc(x.options[x.correct_index])}</span></p>`).join("");
+    }
+    document.getElementById("box").innerHTML=`<div class="card"><h1>${auto?"⏰ Time up! ":""}🎉 ${r.score}/${r.total} ${quizType==="write2"?"points":"correct"} (${pct}%)</h1>
+    <p><span class="pill ${mode==="exam"?"live":"info"}">${mode==="exam"?`+${r.score} exam points`:"Practice — not on the exam leaderboard"}</span></p>
+    ${detailHtml}
+    <a class="btn" href="dashboard.html">More quizzes →</a> <a class="btn ghost" href="results.html">My Results</a></div>`;
+    window.scrollTo(0,0);
+  }catch(e){ toast(e.message,false); if(mode==="exam") setTimeout(()=>location.href="results.html",1200); } }
+</script></body></html>
