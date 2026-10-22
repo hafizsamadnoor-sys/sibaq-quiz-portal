@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: sibaq-quiz-portal
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_VERSION
+        value: 22
+    # NOTE: free Render disks are ephemeral. Attach a paid persistent disk
+    # mounted at ./data, or set DB_PATH to a persistent volume, to keep the
+    # SQLite DB across deploys. See README.md.
