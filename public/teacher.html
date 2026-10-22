@@ -1,0 +1,183 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Teacher Panel · SIBAQ Quiz Portal</title>
+<link rel="stylesheet" href="/style.css"><script src="/app.js"></script></head>
+<body><div id="hdr"></div><div class="wrap">
+<h1>👨‍🏫 Teacher Panel</h1>
+<div id="stats" class="statrow"></div>
+<div class="tabs">
+<button class="on" onclick="showTab('quizzes',this)">📝 Quizzes</button>
+<button onclick="showTab('create',this)">➕ Create Quiz</button>
+<button onclick="showTab('bank',this)">📚 Question Bank</button>
+<button onclick="showTab('results',this)">📊 Results</button>
+<button onclick="showTab('students',this)">👨‍🎓 Students</button>
+<button onclick="showTab('account',this)">🔐 Account</button>
+</div>
+
+<div id="tab-quizzes"><div id="quizlist"><p class="muted">Loading…</p></div></div>
+
+<div id="tab-create" style="display:none"><div class="card">
+<h2 id="formtitle">➕ Create Quiz</h2>
+<input type="hidden" id="editid">
+<label>Title</label><input id="qtitle" placeholder="e.g. GK Quiz — Week 1">
+<label>Level</label><select id="qlevel"></select>
+<label>Programme</label><select id="qprog"></select>
+<label>Subject Category</label><select id="qcat"></select>
+<label>Mode</label><select id="qmodes"><option value="both">Practice + Exam</option><option value="practice">Practice only</option><option value="exam">Exam only</option></select>
+<label>Question Type</label><select id="qtype" onchange="onTypeChange()"><option value="mcq">MCQ — 4 options, tap the correct one</option><option value="write2">✍️ write2 — Written translation (2 typed answer boxes, auto-marked per box)</option></select>
+<label>Points per Box (write2 only)</label><input id="qppb" type="number" value="1" min="1">
+<label>Time (minutes)</label><input id="qtime" type="number" value="20" min="1">
+<label><input type="checkbox" id="qpub" style="width:auto" checked> Published (students can see it)</label>
+<h3>Questions</h3><div id="qedit"></div>
+<button class="btn ghost small" onclick="addQ()">+ Add Question</button>
+<h3>📥 Bulk Import</h3>
+<p class="muted" style="font-size:.85rem"><b>MCQ</b> — Paste JSON: <code>[{"question":"…","opt1":"…","opt2":"…","opt3":"…","opt4":"…","correct_index":0}]</code><br>
+or CSV (one per line): <code>question,opt1,opt2,opt3,opt4,correct_index</code> — correct_index is 0–3 (0 = first option).<br>
+<b>✍️ write2 (written translation)</b> — Paste JSON object: <code>{"type":"write2","questions":[{"prompt_lang":"en","prompt":"Head","answers":[{"lang":"ur","label":"Urdu","accept":["سر"]},{"lang":"ar","label":"Arabic","accept":["رأس"]}]}]}</code> — prompt_lang can be en / ur / ar (it rotates by test part); each question has exactly 2 answer boxes; <code>accept</code> lists every acceptable spelling. Marking ignores harakat and normalises Arabic/Urdu letters automatically.</p>
+<textarea id="importtext" style="min-height:110px" placeholder="Paste JSON or CSV here"></textarea>
+<button class="btn ghost small" onclick="doImport()">Import into editor</button>
+<div style="margin-top:14px"><button class="btn success" onclick="saveQuiz()">Save Quiz ✅</button>
+<button class="btn ghost" onclick="resetForm()">Clear / New</button></div>
+</div></div>
+
+<div id="tab-bank" style="display:none">
+<div class="card"><h2>🏦 Create Quiz from Bank</h2>
+<label>Title</label><input id="btitle" placeholder="e.g. Seerah Test 1">
+<label>Source</label><select id="bsource"><option value="">Any</option><option value="GK">GK 100 (BNS30)</option><option value="IslamicHistory">Islamic History 210</option></select>
+<label>Section</label><select id="bsection"><option value="">Any section</option></select>
+<label>Category</label><select id="bcat"></select>
+<label>Level</label><select id="blevel"></select>
+<label>Programme</label><select id="bprog"></select>
+<label>Number of Questions</label><input id="bcount" type="number" value="20" min="1" max="100">
+<label>Mode</label><select id="bmodes"><option value="both">Practice + Exam</option><option value="practice">Practice only</option><option value="exam">Exam only</option></select>
+<label>Time (minutes)</label><input id="btime" type="number" value="20" min="1">
+<button class="btn success" onclick="fromBank()">Create Quiz from Bank →</button></div>
+<div class="card"><h2>📚 Bank Questions</h2>
+<input id="bsearch" placeholder="Search questions…" oninput="loadBank()">
+<select id="bfcat" onchange="loadBank()"><option value="">All categories</option></select>
+<div id="banklist"><p class="muted">Loading…</p></div></div>
+</div>
+
+<div id="tab-results" style="display:none"><div class="card">
+<h2>📊 Quiz Results</h2><select id="rquiz" onchange="loadResults()"></select>
+<div id="rbox"></div></div></div>
+
+<div id="tab-students" style="display:none"><div id="studentlist"><p class="muted">Loading…</p></div></div>
+
+<div id="tab-account" style="display:none"><div class="card">
+<h2>🔐 Change Password</h2>
+<p class="muted">If you are still using the temporary first-login password, change it now.</p>
+<label>Old Password</label><input id="oldp" type="password">
+<label>New Password (min 8 characters)</label><input id="newp" type="password">
+<button class="btn" onclick="changePw()">Change Password</button></div></div>
+</div><div id="ftr"></div>
+<script>
+let meta=null, editing=null;
+(async()=>{ const g=await guard("teacher"); if(!g) return;
+ document.getElementById("hdr").innerHTML=header("teacher.html"); document.getElementById("ftr").innerHTML=footer();
+ meta=await api("GET","/api/meta");
+ const lvlSel=[...meta.levels,"All"].map(l=>`<option>${l}</option>`).join("");
+ document.getElementById("qlevel").innerHTML=lvlSel; document.getElementById("blevel").innerHTML=lvlSel;
+ const progSel=meta.programmes.map(p=>`<option value="${p.code}">${p.code} — ${p.name} (${p.level})</option>`).join("")+`<option value="CUSTOM">Custom</option>`;
+ document.getElementById("qprog").innerHTML=progSel; document.getElementById("bprog").innerHTML=progSel;
+ const catSel=meta.categories.map(c=>`<option>${c}</option>`).join("");
+ document.getElementById("qcat").innerHTML=catSel; document.getElementById("bcat").innerHTML=catSel;
+ document.getElementById("bfcat").innerHTML=`<option value="">All categories</option>`+catSel;
+ addQ(); loadStats(); loadQuizzes(); loadBankFacets();
+})();
+function showTab(id,btn){ ["quizzes","create","bank","results","students","account"].forEach(t=>document.getElementById("tab-"+t).style.display=t===id?"block":"none");
+ document.querySelectorAll(".tabs button").forEach(b=>b.classList.remove("on")); if(btn) btn.classList.add("on");
+ if(id==="results") loadResultQuizzes(); if(id==="students") loadStudents(); }
+async function loadStats(){ const s=await api("GET","/api/teacher/stats");
+ document.getElementById("stats").innerHTML=[["👨‍🎓",s.students,"Students"],["📝",s.quizzes,"Quizzes"],["✅",s.published,"Published"],["🏆",s.exam_attempts,"Exam Attempts"],["🎯",s.attempts-s.exam_attempts,"Practice Attempts"],["📚",s.bank,"Bank Questions"]]
+ .map(([i,n,l])=>`<div class="stat"><span class="ic">${i}</span><b>${n}</b><span>${l}</span></div>`).join("")+
+ `<p class="muted" style="grid-column:1/-1">${s.per_level.map(p=>`${esc(p.level)}: <b>${p.c}</b> students`).join(" · ")}</p>`; }
+async function loadQuizzes(){ const d=await api("GET","/api/teacher/quizzes");
+ document.getElementById("quizlist").innerHTML=d.quizzes.length?d.quizzes.map(q=>`<div class="card">
+  <h3 style="margin-top:0">${esc(q.title)}</h3>
+  <span class="pill info">${esc(q.level)}</span> <span class="pill info">${esc(q.programme)}</span> <span class="pill info">${esc(q.category)}</span>
+  <span class="pill info">${esc(q.modes)}</span> <span class="pill info">${q.type==="write2"?"✍️ write2":"MCQ"}</span> <span class="pill info">${q.question_count} Qs · ${q.time_minutes} min</span>
+  <span class="pill ${q.published?"live":"warn"}">${q.published?"Published":"Draft"}</span>
+  <div style="margin-top:10px"><button class="btn small ghost" onclick="editQuiz(${q.id})">✏️ Edit</button>
+  <button class="btn small ghost" onclick="viewResults(${q.id})">📊 Results</button>
+  <button class="btn small danger" onclick="delQuiz(${q.id})">🗑 Delete</button></div></div>`).join(""):`<div class="card"><p class="muted">No quizzes yet — create one or build from the bank.</p></div>`; }
+function onTypeChange(){ document.getElementById("qedit").innerHTML=""; addQ(); }
+function isW2(){ return document.getElementById("qtype").value==="write2"; }
+function addQ(q){ if(isW2()|| (q && q.answers)) return addWQ(q); const box=document.getElementById("qedit"); const div=document.createElement("div"); div.className="qeditor";
+ div.innerHTML=`<label>Question</label><input class="qq" value="${q?esc(q.question):""}" placeholder="Question text">
+ ${[0,1,2,3].map(j=>`<div style="display:flex;gap:8px;align-items:center"><input type="radio" name="r${Date.now()}${Math.random()}" class="qc" ${q&&q.correct_index===j?"checked":""} style="width:auto"><input class="qo" value="${q?esc(q.options[j]):""}" placeholder="Option ${"ABCD"[j]}"></div>`).join("")}
+ <button class="btn small danger" onclick="this.parentElement.remove()">Remove question</button>`;
+ box.appendChild(div); }
+function addWQ(q){ const box=document.getElementById("qedit"); const div=document.createElement("div"); div.className="qeditor w2editor";
+ const ans=q&&q.answers?q.answers:[{lang:"ur",label:"Urdu",accept:[]},{lang:"ar",label:"Arabic",accept:[]}];
+ div.innerHTML=`<label>Prompt (the word shown)</label><input class="wprompt" value="${q?esc(q.prompt):""}" placeholder="e.g. Head">
+ <label>Prompt Language</label><select class="wpromptlang">${["en","ur","ar"].map(l=>`<option value="${l}" ${q&&q.prompt_lang===l?"selected":""}>${l==="en"?"English":l==="ur"?"Urdu":"Arabic"}</option>`).join("")}</select>
+ ${ans.map((b,j)=>`<div style="border-top:1px dashed var(--line);padding-top:8px;margin-top:8px"><b>Answer Box ${j+1}</b>
+   <label>Language code (en / ur / ar)</label><input class="wlang" value="${esc(b.lang||"")}" placeholder="ur">
+   <label>Label shown to student</label><input class="wlabel" value="${esc(b.label||"")}" placeholder="Urdu">
+   <label>Accepted answers (comma-separated — every correct spelling)</label><input class="waccept" value="${esc((b.accept||[]).join(", "))}" placeholder="accepted answer, another spelling"></div>`).join("")}
+ <button class="btn small danger" onclick="this.parentElement.remove()">Remove question</button>`;
+ box.appendChild(div); }
+function collectQ(){ if(isW2()){ const qs=[]; for(const ed of document.querySelectorAll(".w2editor")){
+ const langs=[...ed.querySelectorAll(".wlang")], labels=[...ed.querySelectorAll(".wlabel")], accs=[...ed.querySelectorAll(".waccept")];
+ qs.push({prompt:ed.querySelector(".wprompt").value,prompt_lang:ed.querySelector(".wpromptlang").value,
+   answers:langs.map((_,j)=>({lang:langs[j].value.trim(),label:labels[j].value.trim(),accept:accs[j].value.split(",").map(x=>x.trim()).filter(Boolean)}))}); } return qs; }
+ const qs=[]; for(const ed of document.querySelectorAll(".qeditor:not(.w2editor)")){
+ const opts=[...ed.querySelectorAll(".qo")].map(i=>i.value); const radios=[...ed.querySelectorAll(".qc")];
+ qs.push({question:ed.querySelector(".qq").value,options:opts,correct_index:Math.max(0,radios.findIndex(r=>r.checked))}); } return qs; }
+async function doImport(){ try{ const d=await api("POST","/api/teacher/import",{text:document.getElementById("importtext").value});
+ if(d.type==="write2") document.getElementById("qtype").value="write2"; else if(d.type==="mcq") document.getElementById("qtype").value="mcq";
+ document.getElementById("qedit").innerHTML=""; d.questions.forEach(q=>addQ(q)); toast(d.questions.length+" questions imported"); }catch(e){ toast(e.message,false); } }
+async function saveQuiz(){ const body={type:document.getElementById("qtype").value,points_per_box:Number(document.getElementById("qppb").value)||1,title:document.getElementById("qtitle").value,level:document.getElementById("qlevel").value,
+ programme:document.getElementById("qprog").value,category:document.getElementById("qcat").value,modes:document.getElementById("qmodes").value,
+ time_minutes:Number(document.getElementById("qtime").value),published:document.getElementById("qpub").checked,questions:collectQ()};
+ try{ if(editing) await api("PUT","/api/teacher/quizzes/"+editing,body); else await api("POST","/api/teacher/quizzes",body);
+ toast("Quiz saved ✅"); resetForm(); loadQuizzes(); loadStats(); showTab("quizzes",document.querySelector(".tabs button")); }catch(e){ toast(e.message,false); } }
+function resetForm(){ editing=null; document.getElementById("formtitle").textContent="➕ Create Quiz"; document.getElementById("qtitle").value=""; document.getElementById("qtype").value="mcq";
+ document.getElementById("qedit").innerHTML=""; addQ(); }
+async function editQuiz(id){ const d=await api("GET","/api/teacher/quizzes/"+id); editing=id;
+ document.getElementById("formtitle").textContent="✏️ Edit Quiz";
+ document.getElementById("qtitle").value=d.quiz.title; document.getElementById("qlevel").value=d.quiz.level;
+ document.getElementById("qprog").value=d.quiz.programme; document.getElementById("qcat").value=d.quiz.category;
+ document.getElementById("qmodes").value=d.quiz.modes; document.getElementById("qtime").value=d.quiz.time_minutes;
+ document.getElementById("qtype").value=d.quiz.type||"mcq"; document.getElementById("qppb").value=d.quiz.points_per_box||1;
+ document.getElementById("qpub").checked=!!d.quiz.published;
+ document.getElementById("qedit").innerHTML=""; d.questions.forEach(q=>addQ(q));
+ showTab("create",document.querySelectorAll(".tabs button")[1]); }
+async function delQuiz(id){ if(!confirm("Delete this quiz and all its results?")) return;
+ await api("DELETE","/api/teacher/quizzes/"+id); toast("Deleted"); loadQuizzes(); loadStats(); }
+async function loadBankFacets(){ const d=await api("GET","/api/teacher/bank");
+ const secs=[...new Set(d.facets.map(f=>f.section))];
+ document.getElementById("bsection").innerHTML=`<option value="">Any section</option>`+secs.map(s=>`<option>${esc(s)}</option>`).join("");
+ document.getElementById("banklist").dataset.total=d.total; loadBank(); }
+async function loadBank(){ const q=new URLSearchParams({search:document.getElementById("bsearch").value,category:document.getElementById("bfcat").value});
+ const d=await api("GET","/api/teacher/bank?"+q);
+ document.getElementById("banklist").innerHTML=`<p class="muted">Bank total: <b>${d.total}</b> · Showing ${d.questions.length}</p>`+
+ d.questions.slice(0,100).map(b=>`<p style="border-bottom:1px solid var(--line);padding:8px 0"><b>${esc(b.question)}</b><br><span class="muted">${esc(b.source)} · ${esc(b.section)} · ${esc(b.level)} · Answer: ${esc(b.options[b.correct_index])}</span></p>`).join(""); }
+async function fromBank(){ const body={title:document.getElementById("btitle").value,source:document.getElementById("bsource").value,
+ section:document.getElementById("bsection").value,category:document.getElementById("bcat").value,level:document.getElementById("blevel").value,
+ programme:document.getElementById("bprog").value,count:Number(document.getElementById("bcount").value),modes:document.getElementById("bmodes").value,
+ time_minutes:Number(document.getElementById("btime").value)};
+ try{ const d=await api("POST","/api/teacher/quizzes/from-bank",body); toast(`Quiz created with ${d.count} questions ✅`); loadQuizzes(); loadStats(); }catch(e){ toast(e.message,false); } }
+async function loadResultQuizzes(){ const d=await api("GET","/api/teacher/quizzes");
+ document.getElementById("rquiz").innerHTML=d.quizzes.map(q=>`<option value="${q.id}">${esc(q.title)}</option>`).join(""); loadResults(); }
+function viewResults(id){ showTab("results",document.querySelectorAll(".tabs button")[3]); loadResultQuizzes().then(()=>{ document.getElementById("rquiz").value=id; loadResults(); }); }
+async function loadResults(){ const id=document.getElementById("rquiz").value; if(!id) return;
+ const d=await api("GET",`/api/teacher/quizzes/${id}/results`); const box=document.getElementById("rbox");
+ const csvUrl=`/api/teacher/quizzes/${id}/results.csv`;
+ box.innerHTML=(d.results.length?`<p><a class="btn small" href="#" onclick="dlCsv('${csvUrl}');return false;">⬇ Export CSV</a></p>
+ <div class="tablewrap"><table><tr><th>Student</th><th>Level</th><th>Adm</th><th>Mode</th><th>Score</th><th>%</th><th>Date</th></tr>
+ ${d.results.map(r=>`<tr><td>${esc(r.name)}</td><td>${esc(r.level)}</td><td>${esc(r.adm_no)}</td><td>${r.mode}</td><td><b>${r.score}/${r.total}</b></td><td>${r.total?Math.round(100*r.score/r.total):0}%</td><td>${esc(String(r.created_at).slice(0,16))}</td></tr>`).join("")}</table></div>`
+ :`<p class="muted">No attempts yet for this quiz.</p>`); }
+async function dlCsv(url){ const r=await fetch(url,{headers:{Authorization:"Bearer "+token()}}); const blob=await r.blob();
+ const a=document.createElement("a"); a.href=URL.createObjectURL(blob); a.download="results.csv"; a.click(); }
+async function loadStudents(){ const d=await api("GET","/api/teacher/students");
+ document.getElementById("studentlist").innerHTML=d.students.length?`<div class="tablewrap"><table><tr><th>Name</th><th>Level</th><th>Class</th><th>Adm No</th><th>Status</th><th></th></tr>
+ ${d.students.map(s=>`<tr><td>${esc(s.name)}</td><td>${esc(s.level)}</td><td>${esc(s.class_section||"")}</td><td>${esc(s.adm_no)}</td><td>${s.active?"✅ Active":"⏸ Inactive"}</td>
+ <td><button class="btn small ghost" onclick="toggleStudent(${s.id},${s.active?0:1})">${s.active?"Deactivate":"Activate"}</button>
+ <button class="btn small danger" onclick="delStudent(${s.id})">Delete</button></td></tr>`).join("")}</table></div>`
+ :`<div class="card"><p class="muted">No students registered yet.</p></div>`; }
+async function toggleStudent(id,active){ await api("PATCH","/api/teacher/students/"+id,{active:!!active}); loadStudents(); loadStats(); }
+async function delStudent(id){ if(!confirm("Delete this student and all his attempts?")) return; await api("DELETE","/api/teacher/students/"+id); loadStudents(); loadStats(); }
+async function changePw(){ try{ await api("POST","/api/teacher/change-password",{old_password:document.getElementById("oldp").value,new_password:document.getElementById("newp").value}); toast("Password changed ✅"); }catch(e){ toast(e.message,false); } }
+</script></body></html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Quizzes · SIBAQ Quiz Portal</title>
+<link rel="stylesheet" href="/style.css"><script src="/app.js"></script></head>
+<body><div id="hdr"></div><div class="wrap">
+<h1 id="hello">🧠 Quizzes</h1>
+<div class="tabs"><button id="tabmine" class="on" onclick="setFilter('mine')">My Level</button>
+<button id="taball" onclick="setFilter('all')">All Levels</button></div>
+<div id="list"><p class="muted">Loading…</p></div>
+</div><div id="ftr"></div>
+<script>
+let me=null, quizzes=[], filter="mine";
+(async()=>{ const g=await guard("student"); if(!g) return; me=g.user;
+  document.getElementById("hdr").innerHTML=header("dashboard.html");
+  document.getElementById("ftr").innerHTML=footer();
+  document.getElementById("hello").textContent=`🧠 Assalamu Alaikum, ${me.name.split(" ")[0]} — ${me.level} Quizzes`;
+  const d=await api("GET","/api/quizzes"); quizzes=d.quizzes; render();
+})();
+function setFilter(f){ filter=f; document.getElementById("tabmine").className=f==="mine"?"on":""; document.getElementById("taball").className=f==="all"?"on":""; render(); }
+function render(){
+  const rows=quizzes.filter(q=>filter==="all"||q.level===me.level||q.level==="All");
+  const box=document.getElementById("list");
+  if(!rows.length){ box.innerHTML=`<div class="card"><p class="muted">No published quizzes for this level yet. Try “All Levels”.</p></div>`; return; }
+  const groups={}; rows.forEach(q=>{ (groups[q.category]=groups[q.category]||[]).push(q); });
+  box.innerHTML=Object.keys(groups).sort().map(cat=>`
+    <div class="section-label">${esc(cat)}</div>
+    ${groups[cat].map(q=>`<div class="card">
+      <h3 style="margin-top:0">${esc(q.title)}</h3>
+      <span class="pill info">${esc(q.level)}</span> <span class="pill info">${esc(q.programme)}</span>
+      <span class="pill info">${q.type==="write2"?"✍️ Written":"MCQ"}</span> <span class="pill info">${q.question_count} questions</span> <span class="pill warn">⏳ ${q.time_minutes} min</span>
+      ${q.exam_done?`<span class="pill live">✅ Exam done</span>`:""}
+      <div style="margin-top:10px">
+      ${q.modes!=="exam"?`<a class="btn small" href="quiz.html?id=${q.id}&mode=practice">🎯 Practice</a>`:""}
+      ${q.modes!=="practice"&&!q.exam_done?`<a class="btn small success" href="quiz.html?id=${q.id}&mode=exam">🏆 Take Exam</a>`:""}
+      </div></div>`).join("")}`).join("");
+}
+</script></body></html>

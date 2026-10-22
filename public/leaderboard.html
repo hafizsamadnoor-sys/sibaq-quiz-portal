@@ -1,0 +1,22 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Leaderboard · SIBAQ Quiz Portal</title>
+<link rel="stylesheet" href="/style.css"><script src="/app.js"></script></head>
+<body><div id="hdr"></div><div class="wrap"><h1>🏆 Leaderboard</h1>
+<p class="muted">Exam points only — practice does not count here.</p>
+<div class="tabs" id="lvltabs"></div><div id="box"><p class="muted">Loading…</p></div></div><div id="ftr"></div>
+<script>let cur="";
+(async()=>{ const g=await guard(); if(!g) return;
+ document.getElementById("hdr").innerHTML=header("leaderboard.html"); document.getElementById("ftr").innerHTML=footer();
+ const meta=await api("GET","/api/meta");
+ document.getElementById("lvltabs").innerHTML=[ "",...meta.levels].map(l=>`<button class="${cur===l?"on":""}" onclick="loadLvl('${l}')">${l||"Overall"}</button>`).join("");
+ loadLvl("");
+})();
+async function loadLvl(l){ cur=l;
+ document.querySelectorAll("#lvltabs button").forEach(b=>b.className=b.textContent===(l||"Overall")?"on":"");
+ const d=await api("GET","/api/leaderboard"+(l?("?level="+encodeURIComponent(l)):""));
+ const box=document.getElementById("box");
+ if(!d.leaderboard.length){ box.innerHTML=`<div class="card"><p class="muted">No exam results yet${l?" for "+esc(l):""}.</p></div>`; return; }
+ box.innerHTML=`<div class="tablewrap"><table><tr><th>#</th><th>Student</th><th>Level</th><th>Points</th><th>Exams</th></tr>
+ ${d.leaderboard.map((r,i)=>`<tr><td>${["🥇","🥈","🥉"][i]||(i+1)}</td><td><b>${esc(r.name)}</b><br><span class="muted">${esc(r.adm_no)}</span></td><td>${esc(r.level)}</td><td><b>${r.points}</b></td><td>${r.attempts}</td></tr>`).join("")}</table></div>`;
+}</script></body></html>

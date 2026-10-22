@@ -1,0 +1,12 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>My Results · SIBAQ Quiz Portal</title>
+<link rel="stylesheet" href="/style.css"><script src="/app.js"></script></head>
+<body><div id="hdr"></div><div class="wrap"><h1>📊 My Results</h1><div id="box"><p class="muted">Loading…</p></div></div><div id="ftr"></div>
+<script>(async()=>{ const g=await guard("student"); if(!g) return;
+ document.getElementById("hdr").innerHTML=header("results.html"); document.getElementById("ftr").innerHTML=footer();
+ const d=await api("GET","/api/my-results"); const box=document.getElementById("box");
+ if(!d.results.length){ box.innerHTML=`<div class="card"><p class="muted">No attempts yet. <a href="dashboard.html">Take a quiz →</a></p></div>`; return; }
+ box.innerHTML=`<div class="tablewrap"><table><tr><th>Quiz</th><th>Mode</th><th>Score</th><th>%</th><th>Date</th></tr>
+ ${d.results.map(r=>`<tr><td>${esc(r.title)}<br><span class="muted">${esc(r.level)} · ${esc(r.category)}</span></td><td>${r.mode==="exam"?"🏆 Exam":"🎯 Practice"}</td><td><b>${r.score}/${r.total}</b></td><td>${r.total?Math.round(100*r.score/r.total):0}%</td><td>${esc(String(r.created_at).slice(0,16))}</td></tr>`).join("")}</table></div>`;
+})();</script></body></html>

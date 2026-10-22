@@ -1,0 +1,42 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SIBAQ '26 Quiz Portal · Noorul Huda</title>
+<link rel="stylesheet" href="/style.css"><script src="/app.js"></script>
+</head><body>
+<header class="top"><div class="top-in"><div class="brand-logo">🎓</div>
+<div class="brand">SIBAQ '26 Quiz Portal<small>Noorul Huda Centre for Excellence</small>
+<div class="inst">Noorul Huda Islamic Academy</div></div></div></header>
+<div class="wrap">
+<div class="card hero"><h1>🧠 Quiz Portal</h1><p class="muted">Practice and compete in SIBAQ quiz programmes — GK, Islamic History, Grammar, Maths and more, for Bidaya, Ula, Thanawiyya, Aliyah and Kulliyya.</p></div>
+
+<div class="card"><h2>👨‍🎓 Student Login</h2>
+<label>Admission / Chest Number</label><input id="adm" placeholder="e.g. 488 or N1305">
+<label>4-digit PIN</label><input id="pin" type="password" inputmode="numeric" maxlength="4" placeholder="••••">
+<button class="btn" onclick="sLogin()">Login →</button>
+<p class="muted">New student? <a href="#" onclick="showReg(event)">Register here</a> — use your admission number and choose your own 4-digit PIN.</p></div>
+
+<div class="card" id="regcard" style="display:none"><h2>✍️ Student Registration</h2>
+<label>Full Name</label><input id="rname" placeholder="Your full name">
+<label>Level</label><select id="rlevel"></select>
+<label>Class / Section</label><input id="rclass" placeholder="e.g. S1, Class 8A">
+<label>Admission / Chest Number</label><input id="radm" placeholder="Unique — you will log in with this">
+<label>Choose a 4-digit PIN</label><input id="rpin" type="password" inputmode="numeric" maxlength="4" placeholder="••••">
+<button class="btn success" onclick="register()">Register & Login →</button></div>
+
+<div class="card"><h2>👨‍🏫 Teacher Login</h2>
+<label>Username</label><input id="tuser" placeholder="Username">
+<label>Password</label><input id="tpass" type="password" placeholder="Password">
+<button class="btn ghost" onclick="tLogin()">Teacher Login →</button></div>
+<div class="footer"><div class="finst">NOORUL HUDA CENTRE FOR EXCELLENCE</div>SIBAQ '26 Quiz Portal · Noorul Huda Islamic Academy</div>
+</div>
+<script>
+(async()=>{
+  if(token()){ try{ const me=await api("GET","/api/me"); location.href = me.role==="teacher"?"teacher.html":"dashboard.html"; return; }catch{} }
+  const meta=await api("GET","/api/meta");
+  document.getElementById("rlevel").innerHTML=meta.levels.map(l=>`<option>${l}</option>`).join("");
+})();
+function showReg(e){ e.preventDefault(); document.getElementById("regcard").style.display="block"; document.getElementById("regcard").scrollIntoView({behavior:"smooth"}); }
+async function sLogin(){ try{ const d=await api("POST","/api/auth/student-login",{adm_no:document.getElementById("adm").value,pin:document.getElementById("pin").value}); localStorage.setItem("qp_token",d.token); localStorage.setItem("qp_role","student"); location.href="dashboard.html"; }catch(e){ toast(e.message,false); } }
+async function register(){ try{ const d=await api("POST","/api/auth/register",{name:document.getElementById("rname").value,level:document.getElementById("rlevel").value,class_section:document.getElementById("rclass").value,adm_no:document.getElementById("radm").value,pin:document.getElementById("rpin").value}); localStorage.setItem("qp_token",d.token); localStorage.setItem("qp_role","student"); location.href="dashboard.html"; }catch(e){ toast(e.message,false); } }
+async function tLogin(){ try{ const d=await api("POST","/api/auth/teacher-login",{username:document.getElementById("tuser").value,password:document.getElementById("tpass").value}); localStorage.setItem("qp_token",d.token); localStorage.setItem("qp_role","teacher"); location.href="teacher.html"; }catch(e){ toast(e.message,false); } }
+</script></body></html>
