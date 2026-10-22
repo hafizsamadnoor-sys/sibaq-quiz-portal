@@ -1,0 +1,1673 @@
+{
+ "title": "UNO17 Vocabulary Test — Part 1 · English → Urdu + Arabic (Words 1–70)",
+ "level": "Ula",
+ "programme": "UNO17 Vocabulary",
+ "category": "Vocabulary",
+ "type": "write2",
+ "time_minutes": 40,
+ "points_per_correct": 1,
+ "total_points": 140,
+ "questions": [
+  {
+   "ref": "body-001",
+   "global_no": 1,
+   "prompt_lang": "en",
+   "prompt": "Head",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "سر"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "رَأْس",
+      "رأس"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-002",
+   "global_no": 2,
+   "prompt_lang": "en",
+   "prompt": "Skull / Cranium",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "کھوپڑی",
+      "جمجمہ"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "جُمْجُمَة",
+      "جمجمة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-003",
+   "global_no": 3,
+   "prompt_lang": "en",
+   "prompt": "Brain",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "دماغ",
+      "مغز"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "مُخّ",
+      "مخ",
+      "دِمَاغ",
+      "دماغ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-004",
+   "global_no": 4,
+   "prompt_lang": "en",
+   "prompt": "Forehead",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "پیشانی",
+      "ماتھا"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "جَبِين",
+      "جبين",
+      "جَبْهَة",
+      "جبهة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-005",
+   "global_no": 5,
+   "prompt_lang": "en",
+   "prompt": "Temple",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "کنپٹی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "صُدْغ",
+      "صدغ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-006",
+   "global_no": 6,
+   "prompt_lang": "en",
+   "prompt": "Eye",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "آنکھ",
+      "چشم"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "عَيْن",
+      "عين"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-007",
+   "global_no": 7,
+   "prompt_lang": "en",
+   "prompt": "Eyebrow",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ابرو",
+      "بھنویں"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "حَاجِب",
+      "حاجب"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-008",
+   "global_no": 8,
+   "prompt_lang": "en",
+   "prompt": "Eyelid",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "پپوٹا"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "جَفْن",
+      "جفن"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-009",
+   "global_no": 9,
+   "prompt_lang": "en",
+   "prompt": "Eyelash",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "پلک"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "رِمْش",
+      "رمش",
+      "هُدْب",
+      "هدب"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-010",
+   "global_no": 10,
+   "prompt_lang": "en",
+   "prompt": "Pupil",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "پتلی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "بُؤْبُؤ",
+      "بؤبؤ",
+      "إِنْسَان الْعَيْن",
+      "إنسان العين"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-011",
+   "global_no": 11,
+   "prompt_lang": "en",
+   "prompt": "Iris",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "قزحیہ"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "قَزَحِيَّة",
+      "قزحية"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-012",
+   "global_no": 12,
+   "prompt_lang": "en",
+   "prompt": "Cornea",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "قرنیہ"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "قَرْنِيَّة",
+      "قرنية"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-013",
+   "global_no": 13,
+   "prompt_lang": "en",
+   "prompt": "Ear",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "کان",
+      "گوش"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "أُذُن",
+      "أذن"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-014",
+   "global_no": 14,
+   "prompt_lang": "en",
+   "prompt": "Eardrum",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "کان کا پردہ"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "طَبْلَة الْأُذُن",
+      "طبلة الأذن"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-015",
+   "global_no": 15,
+   "prompt_lang": "en",
+   "prompt": "Earlobes",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "لو",
+      "نرم کان"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "شَحْمَة الْأُذُن",
+      "شحمة الأذن"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-016",
+   "global_no": 16,
+   "prompt_lang": "en",
+   "prompt": "Nose",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ناک",
+      "بینی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "أَنْف",
+      "أنف"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-017",
+   "global_no": 17,
+   "prompt_lang": "en",
+   "prompt": "Nostril",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "نتھنا"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "مِنْخَر",
+      "منخر",
+      "خَيْشُوم",
+      "خيشوم"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-018",
+   "global_no": 18,
+   "prompt_lang": "en",
+   "prompt": "Cheek",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "گال",
+      "رخسار"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "خَدّ",
+      "خد",
+      "وَجْنَة",
+      "وجنة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-019",
+   "global_no": 19,
+   "prompt_lang": "en",
+   "prompt": "Mouth",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "منہ",
+      "دہن"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "فَم",
+      "فم"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-020",
+   "global_no": 20,
+   "prompt_lang": "en",
+   "prompt": "Lip",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ہونٹ",
+      "لب"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "شَفَة",
+      "شفة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-021",
+   "global_no": 21,
+   "prompt_lang": "en",
+   "prompt": "Tooth",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "دانت",
+      "دندان"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "سِنّ",
+      "سن"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-022",
+   "global_no": 22,
+   "prompt_lang": "en",
+   "prompt": "Molar (Teeth)",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "داڑھ"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "ضِرْس",
+      "ضرس"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-023",
+   "global_no": 23,
+   "prompt_lang": "en",
+   "prompt": "Gums",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "مسوڑا"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "لِثَّة",
+      "لثة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-024",
+   "global_no": 24,
+   "prompt_lang": "en",
+   "prompt": "Tongue",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "زبان",
+      "جیبھ"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "لِسَان",
+      "لسان"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-025",
+   "global_no": 25,
+   "prompt_lang": "en",
+   "prompt": "Palate (Mouth)",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "تالو"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "حَنَك",
+      "حنك"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-026",
+   "global_no": 26,
+   "prompt_lang": "en",
+   "prompt": "Jaw",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "جبڑا"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "فَكّ",
+      "فك"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-027",
+   "global_no": 27,
+   "prompt_lang": "en",
+   "prompt": "Chin",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ٹھوڑی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "ذَقَن",
+      "ذقن"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-028",
+   "global_no": 28,
+   "prompt_lang": "en",
+   "prompt": "Neck",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "گردن"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "عُنُق",
+      "عنق",
+      "رَقَبَة",
+      "رقبة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-029",
+   "global_no": 29,
+   "prompt_lang": "en",
+   "prompt": "Nape",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "گدی",
+      "قفا"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "قَفَا",
+      "قفا"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-030",
+   "global_no": 30,
+   "prompt_lang": "en",
+   "prompt": "Throat",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "گلا",
+      "حلقوم"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "حَلْق",
+      "حلق",
+      "حَنْجَرَة",
+      "حنجرة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-031",
+   "global_no": 31,
+   "prompt_lang": "en",
+   "prompt": "Adam's apple",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "حلق کا ابھار"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "غُدَّة الْحَنْجَرَة",
+      "غدة الحنجرة",
+      "تُفَّاحَة آدَم",
+      "تفاحة آدم"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-032",
+   "global_no": 32,
+   "prompt_lang": "en",
+   "prompt": "Moustache",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "مونچھیں"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "شَارِب",
+      "شارب"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-033",
+   "global_no": 33,
+   "prompt_lang": "en",
+   "prompt": "Beard",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "داڑھی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "لِحْيَة",
+      "لحية"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-034",
+   "global_no": 34,
+   "prompt_lang": "en",
+   "prompt": "Sideburns",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "قلمیں"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "سَالِف",
+      "سالف"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-035",
+   "global_no": 35,
+   "prompt_lang": "en",
+   "prompt": "Tears",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "آنسو",
+      "اشک"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "دُمُوع",
+      "دموع"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-036",
+   "global_no": 36,
+   "prompt_lang": "en",
+   "prompt": "Shoulder",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "کندھا",
+      "دوش"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "كَتِف",
+      "كتف"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-037",
+   "global_no": 37,
+   "prompt_lang": "en",
+   "prompt": "Collarbone",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ہنسلی کی ہڈی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "تَرْقُوَة",
+      "ترقوة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-038",
+   "global_no": 38,
+   "prompt_lang": "en",
+   "prompt": "Armpit",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "بغل"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "إِبْط",
+      "إبط"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-039",
+   "global_no": 39,
+   "prompt_lang": "en",
+   "prompt": "Arm",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "بازو"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "ذِرَاع",
+      "ذراع"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-040",
+   "global_no": 40,
+   "prompt_lang": "en",
+   "prompt": "Upper arm",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "اوپری بازو"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "عَضُد",
+      "عضد"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-041",
+   "global_no": 41,
+   "prompt_lang": "en",
+   "prompt": "Elbow",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "کہنی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "كُوع",
+      "كوع",
+      "مِرْفَق",
+      "مرفق"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-042",
+   "global_no": 42,
+   "prompt_lang": "en",
+   "prompt": "Forearm",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "پہنچ",
+      "کلائی کا اوپری حصہ"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "سَاعِد",
+      "ساعد"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-043",
+   "global_no": 43,
+   "prompt_lang": "en",
+   "prompt": "Wrist",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "کلائی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "رُسْغ",
+      "رسغ",
+      "مِعْصَم",
+      "معصم"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-044",
+   "global_no": 44,
+   "prompt_lang": "en",
+   "prompt": "Hand",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ہاتھ",
+      "دست"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "يَد",
+      "يد"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-045",
+   "global_no": 45,
+   "prompt_lang": "en",
+   "prompt": "Palm",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ہتھیلی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "كَفّ",
+      "كف"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-046",
+   "global_no": 46,
+   "prompt_lang": "en",
+   "prompt": "Fist",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "مٹھی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "قَبْضَة الْيَد",
+      "قبضة اليد"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-047",
+   "global_no": 47,
+   "prompt_lang": "en",
+   "prompt": "Finger",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "انگلی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "إِصْبَع",
+      "إصبع"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-048",
+   "global_no": 48,
+   "prompt_lang": "en",
+   "prompt": "Thumb",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "انگوٹھا"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "إِبْهَام",
+      "إبهام"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-049",
+   "global_no": 49,
+   "prompt_lang": "en",
+   "prompt": "Index finger",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "شہادت کی انگلی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "سَبَّابَة",
+      "سبابة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-050",
+   "global_no": 50,
+   "prompt_lang": "en",
+   "prompt": "Middle finger",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "درمیانی انگلی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "وُسْطَى",
+      "وسطى"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-051",
+   "global_no": 51,
+   "prompt_lang": "en",
+   "prompt": "Ring finger",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "انگوٹھی والی انگلی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "بِنْصِر",
+      "بنصر"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-052",
+   "global_no": 52,
+   "prompt_lang": "en",
+   "prompt": "Little finger",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "چھوٹی انگلی",
+      "چھنگلی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "خِنْصِر",
+      "خنصر"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-053",
+   "global_no": 53,
+   "prompt_lang": "en",
+   "prompt": "Knuckle",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "انگلی کا جوڑ",
+      "پورا"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "عُقْلَة الْإِصْبَع",
+      "عقلة الإصبع"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-054",
+   "global_no": 54,
+   "prompt_lang": "en",
+   "prompt": "Fingernail",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ناخن"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "ظُفْر",
+      "ظفر"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-055",
+   "global_no": 55,
+   "prompt_lang": "en",
+   "prompt": "Chest / Torso",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "سینہ"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "صَدْر",
+      "صدر"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-056",
+   "global_no": 56,
+   "prompt_lang": "en",
+   "prompt": "Rib",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "پسلی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "ضِلْع",
+      "ضلع"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-057",
+   "global_no": 57,
+   "prompt_lang": "en",
+   "prompt": "Back / Dorsum",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "پشت",
+      "پیٹھ"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "ظَهْر",
+      "ظهر"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-058",
+   "global_no": 58,
+   "prompt_lang": "en",
+   "prompt": "Spine / Backbone",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ریڑھ کی ہڈی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "عَمُود فِقْرِيّ",
+      "عمود فقري"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-059",
+   "global_no": 59,
+   "prompt_lang": "en",
+   "prompt": "Vertebra",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "منکا"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "فِقْرَة",
+      "فقرة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-060",
+   "global_no": 60,
+   "prompt_lang": "en",
+   "prompt": "Waist",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "کمر"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "خَصْر",
+      "خصر"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-061",
+   "global_no": 61,
+   "prompt_lang": "en",
+   "prompt": "Hip / Pelvis",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "کولہا",
+      "حوض"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "وَرِك",
+      "ورك",
+      "حَوْض",
+      "حوض"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-062",
+   "global_no": 62,
+   "prompt_lang": "en",
+   "prompt": "Buttocks / Rump",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "سرین"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "أَلْيَة",
+      "ألية",
+      "عَجُز",
+      "عجز"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-063",
+   "global_no": 63,
+   "prompt_lang": "en",
+   "prompt": "Leg",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ٹانگ",
+      "ساق"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "سَاق",
+      "ساق"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-064",
+   "global_no": 64,
+   "prompt_lang": "en",
+   "prompt": "Thigh / Femur",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ران",
+      "فخذ"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "فَخِذ",
+      "فخذ"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-065",
+   "global_no": 65,
+   "prompt_lang": "en",
+   "prompt": "Knee",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "گھٹنا"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "رُكْبَة",
+      "ركبة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-066",
+   "global_no": 66,
+   "prompt_lang": "en",
+   "prompt": "Kneecap / Patella",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "گھٹنے کی چپنی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "رَضَفَة",
+      "رضفة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-067",
+   "global_no": 67,
+   "prompt_lang": "en",
+   "prompt": "Shin",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "پنڈلی کی ہڈی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "ظُنْبُوب",
+      "ظنبوب"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-068",
+   "global_no": 68,
+   "prompt_lang": "en",
+   "prompt": "Calf",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "پنڈلی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "رَبْلَة",
+      "ربلة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-069",
+   "global_no": 69,
+   "prompt_lang": "en",
+   "prompt": "Ankle",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ٹخنہ"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "كَاحِل",
+      "كاحل"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-070",
+   "global_no": 70,
+   "prompt_lang": "en",
+   "prompt": "Heel",
+   "answers": [
+    {
+     "lang": "ur",
+     "label": "Urdu",
+     "accept": [
+      "ایڑی"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "عَقِب",
+      "عقب"
+     ]
+    }
+   ]
+  }
+ ]
+}

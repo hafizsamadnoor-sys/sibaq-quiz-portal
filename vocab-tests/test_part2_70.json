@@ -1,0 +1,1690 @@
+{
+ "title": "UNO17 Vocabulary Test — Part 2 · Urdu → English + Arabic (Words 71–140)",
+ "level": "Ula",
+ "programme": "UNO17 Vocabulary",
+ "category": "Vocabulary",
+ "type": "write2",
+ "time_minutes": 40,
+ "points_per_correct": 1,
+ "total_points": 140,
+ "questions": [
+  {
+   "ref": "body-071",
+   "global_no": 71,
+   "prompt_lang": "ur",
+   "prompt": "پاؤں",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Foot"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "قَدَم",
+      "قدم"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-072",
+   "global_no": 72,
+   "prompt_lang": "ur",
+   "prompt": "تلوہ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Sole (Foot)"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "أَخْمَص الْقَدَم",
+      "أخمص القدم"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-073",
+   "global_no": 73,
+   "prompt_lang": "ur",
+   "prompt": "پاؤں کی انگلی",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Toe"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "إِصْبَع الْقَدَم",
+      "إصبع القدم"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-074",
+   "global_no": 74,
+   "prompt_lang": "ur",
+   "prompt": "پیٹ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Abdomen / Belly",
+      "Abdomen",
+      "Belly"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "بَطْن",
+      "بطن"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-075",
+   "global_no": 75,
+   "prompt_lang": "ur",
+   "prompt": "ناف",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Navel / Umbilicus",
+      "Navel",
+      "Umbilicus"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "سُرَّة",
+      "سرة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-076",
+   "global_no": 76,
+   "prompt_lang": "ur",
+   "prompt": "دل",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Heart"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "قَلْب",
+      "قلب"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-077",
+   "global_no": 77,
+   "prompt_lang": "ur",
+   "prompt": "پھیپھڑے",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Lungs"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "رِئَة",
+      "رئة",
+      "رِئَتَان",
+      "رئتان"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-078",
+   "global_no": 78,
+   "prompt_lang": "ur",
+   "prompt": "سانس کی نالی",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Windpipe / Trachea",
+      "Windpipe",
+      "Trachea"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "قَصَبَة هَوَائِيَّة",
+      "قصبة هوائية"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-079",
+   "global_no": 79,
+   "prompt_lang": "ur",
+   "prompt": "خوراک کی نالی",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Esophagus"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "مَرِيء",
+      "مريء"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-080",
+   "global_no": 80,
+   "prompt_lang": "ur",
+   "prompt": "معدہ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Stomach"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "مَعِدَة",
+      "معدة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-081",
+   "global_no": 81,
+   "prompt_lang": "ur",
+   "prompt": "جگر",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Liver"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "كَبِد",
+      "كبد"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-082",
+   "global_no": 82,
+   "prompt_lang": "ur",
+   "prompt": "پتہ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Gallbladder"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "مَرَارَة",
+      "مرارة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-083",
+   "global_no": 83,
+   "prompt_lang": "ur",
+   "prompt": "لبلبہ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Pancreas"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "بَنْكِرْيَاس",
+      "بنكرياس"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-084",
+   "global_no": 84,
+   "prompt_lang": "ur",
+   "prompt": "تلی",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Spleen"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "طِحَال",
+      "طحال"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-085",
+   "global_no": 85,
+   "prompt_lang": "ur",
+   "prompt": "گردہ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Kidney"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "كُلْيَة",
+      "كلية"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-086",
+   "global_no": 86,
+   "prompt_lang": "ur",
+   "prompt": "مثانہ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Urinary Bladder"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "مَثَانَة",
+      "مثانة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-087",
+   "global_no": 87,
+   "prompt_lang": "ur",
+   "prompt": "چھوٹی آنت",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Small Intestine"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "أَمْعَاء دَقِيقَة",
+      "أمعاء دقيقة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-088",
+   "global_no": 88,
+   "prompt_lang": "ur",
+   "prompt": "بڑی آنت",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Large Intestine"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "أَمْعَاء غَلِيظَة",
+      "أمعاء غليظة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-089",
+   "global_no": 89,
+   "prompt_lang": "ur",
+   "prompt": "زائدہ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Appendix"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "زَائِدَة دُودِيَّة",
+      "زائدة دودية"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-090",
+   "global_no": 90,
+   "prompt_lang": "ur",
+   "prompt": "حجاب حاجز",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Diaphragm"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "حِجَاب حَاجِز",
+      "حجاب حاجز"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-091",
+   "global_no": 91,
+   "prompt_lang": "ur",
+   "prompt": "شریان",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Artery"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "شِرْيَان",
+      "شريان"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-092",
+   "global_no": 92,
+   "prompt_lang": "ur",
+   "prompt": "ورید",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Vein"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "وَرِيد",
+      "وريد"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-093",
+   "global_no": 93,
+   "prompt_lang": "ur",
+   "prompt": "شعریہ رگیں",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Capillary"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "شُعَيْرَة دَمَوِيَّة",
+      "شعيرة دموية"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-094",
+   "global_no": 94,
+   "prompt_lang": "ur",
+   "prompt": "خون",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Blood"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "دَم",
+      "دم"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-095",
+   "global_no": 95,
+   "prompt_lang": "ur",
+   "prompt": "عصب",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Nerve"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "عَصَب",
+      "عصب"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-096",
+   "global_no": 96,
+   "prompt_lang": "ur",
+   "prompt": "نخاع",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Spinal cord"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "حَبْل شَوْكِيّ",
+      "حبل شوكي"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-097",
+   "global_no": 97,
+   "prompt_lang": "ur",
+   "prompt": "ہڈی کا گودا",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Bone marrow"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "نُخَاع الْعَظْم",
+      "نخاع العظم"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-098",
+   "global_no": 98,
+   "prompt_lang": "ur",
+   "prompt": "کرکری ہڈی",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Cartilage"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "غُضْرُوف",
+      "غضروف"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-099",
+   "global_no": 99,
+   "prompt_lang": "ur",
+   "prompt": "بندھن",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Ligament"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "رِبَاط",
+      "رباط"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-100",
+   "global_no": 100,
+   "prompt_lang": "ur",
+   "prompt": "پٹھا",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Tendon"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "وَتَر",
+      "وتر"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-101",
+   "global_no": 101,
+   "prompt_lang": "ur",
+   "prompt": "جلد",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Skin / Cuticle",
+      "Skin",
+      "Cuticle"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "جِلْد",
+      "جلد",
+      "بَشَرَة",
+      "بشرة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-102",
+   "global_no": 102,
+   "prompt_lang": "ur",
+   "prompt": "رواں",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Body Hair"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "وَبَر",
+      "وبر",
+      "شَعْر الْجَسَد",
+      "شعر الجسد"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-103",
+   "global_no": 103,
+   "prompt_lang": "ur",
+   "prompt": "پسینہ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Sweat / Perspiration",
+      "Sweat",
+      "Perspiration"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "عَرَق",
+      "عرق"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-104",
+   "global_no": 104,
+   "prompt_lang": "ur",
+   "prompt": "لعاب دہن",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Saliva"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "لُعَاب",
+      "لعاب"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "body-105",
+   "global_no": 105,
+   "prompt_lang": "ur",
+   "prompt": "ڈھانچہ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Skeleton"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "هَيْكَل عَظْمِيّ",
+      "هيكل عظمي"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-001",
+   "global_no": 106,
+   "prompt_lang": "ur",
+   "prompt": "شیر",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Lion"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "أَسَد",
+      "أسد",
+      "لَيْث",
+      "ليث"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-002",
+   "global_no": 107,
+   "prompt_lang": "ur",
+   "prompt": "شیرنی",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Lioness"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "لَبُؤَة",
+      "لبؤة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-003",
+   "global_no": 108,
+   "prompt_lang": "ur",
+   "prompt": "باگھ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Tiger"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "نَمِر",
+      "نمر",
+      "بَبْر",
+      "ببر"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-004",
+   "global_no": 109,
+   "prompt_lang": "ur",
+   "prompt": "تیندوا",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Leopard / Panther",
+      "Leopard",
+      "Panther"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "فَهْد",
+      "فهد"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-005",
+   "global_no": 110,
+   "prompt_lang": "ur",
+   "prompt": "چیتا (شکاری)",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Cheetah"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "فَهْد صَيَّاد",
+      "فهد صياد"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-006",
+   "global_no": 111,
+   "prompt_lang": "ur",
+   "prompt": "ہاتھی",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Elephant"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "فِيل",
+      "فيل"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-007",
+   "global_no": 112,
+   "prompt_lang": "ur",
+   "prompt": "اونٹ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Camel"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "جَمَل",
+      "جمل",
+      "نَاقَة",
+      "ناقة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-008",
+   "global_no": 113,
+   "prompt_lang": "ur",
+   "prompt": "گھوڑا",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Horse / Mare",
+      "Horse",
+      "Mare"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "حِصَان",
+      "حصان",
+      "فَرَس",
+      "فرس"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-009",
+   "global_no": 114,
+   "prompt_lang": "ur",
+   "prompt": "گدھا",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Donkey / Ass",
+      "Donkey",
+      "Ass"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "حِمَار",
+      "حمار"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-010",
+   "global_no": 115,
+   "prompt_lang": "ur",
+   "prompt": "خچر",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Mule"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "بَغْل",
+      "بغل"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-011",
+   "global_no": 116,
+   "prompt_lang": "ur",
+   "prompt": "گائے",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Cow / Bull",
+      "Cow",
+      "Bull"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "بَقَرَة",
+      "بقرة",
+      "ثَوْر",
+      "ثور"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-012",
+   "global_no": 117,
+   "prompt_lang": "ur",
+   "prompt": "بھینس",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Buffalo"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "جَامُوس",
+      "جاموس"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-013",
+   "global_no": 118,
+   "prompt_lang": "ur",
+   "prompt": "بکری",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Goat"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "مَاعِز",
+      "ماعز",
+      "عَنْزَة",
+      "عنزة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-014",
+   "global_no": 119,
+   "prompt_lang": "ur",
+   "prompt": "بھیڑ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Sheep / Ram",
+      "Sheep",
+      "Ram"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "خَرُوف",
+      "خروف",
+      "كَبْش",
+      "كبش"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-015",
+   "global_no": 120,
+   "prompt_lang": "ur",
+   "prompt": "بھیڑیا",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Wolf"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "ذِئْب",
+      "ذئب"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-016",
+   "global_no": 121,
+   "prompt_lang": "ur",
+   "prompt": "لومڑی",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Fox"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "ثَعْلَب",
+      "ثعلب"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-017",
+   "global_no": 122,
+   "prompt_lang": "ur",
+   "prompt": "گیدڑ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Jackal"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "اِبْن آوَى",
+      "ابن آوى"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-018",
+   "global_no": 123,
+   "prompt_lang": "ur",
+   "prompt": "لکڑبگھا",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Hyena"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "ضَبُع",
+      "ضبع"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-019",
+   "global_no": 124,
+   "prompt_lang": "ur",
+   "prompt": "ریچھ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Bear"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "دُبّ",
+      "دب"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-020",
+   "global_no": 125,
+   "prompt_lang": "ur",
+   "prompt": "ہرن",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Deer / Stag",
+      "Deer",
+      "Stag"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "أَيِّل",
+      "أيل",
+      "غَزَال",
+      "غزال"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-021",
+   "global_no": 126,
+   "prompt_lang": "ur",
+   "prompt": "گینڈا",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Rhinoceros"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "كَرْكَدَن",
+      "كركدن",
+      "وَحِيد الْقَرْن",
+      "وحيد القرن"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-022",
+   "global_no": 127,
+   "prompt_lang": "ur",
+   "prompt": "دریائی گھوڑا",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Hippopotamus"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "فَرَس النَّهْر",
+      "فرس النهر"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-023",
+   "global_no": 128,
+   "prompt_lang": "ur",
+   "prompt": "زرافہ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Giraffe"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "زَرَافَة",
+      "زرافة"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-024",
+   "global_no": 129,
+   "prompt_lang": "ur",
+   "prompt": "زیبرا",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Zebra"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "حِمَار وَحْشِيّ",
+      "حمار وحشي"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-025",
+   "global_no": 130,
+   "prompt_lang": "ur",
+   "prompt": "بندر",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Monkey / Baboon",
+      "Monkey",
+      "Baboon"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "قِرْد",
+      "قرد",
+      "سَعْدَان",
+      "سعدان"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-026",
+   "global_no": 131,
+   "prompt_lang": "ur",
+   "prompt": "چمپنزی",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Chimpanzee"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "شِمْبَانْزِي",
+      "شمبانزي"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-027",
+   "global_no": 132,
+   "prompt_lang": "ur",
+   "prompt": "کتا",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Dog / Hound",
+      "Dog",
+      "Hound"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "كَلْب",
+      "كلب",
+      "سَلُوقِيّ",
+      "سلوقي"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-028",
+   "global_no": 133,
+   "prompt_lang": "ur",
+   "prompt": "بلی",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Cat / Kitten",
+      "Cat",
+      "Kitten"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "قِطّ",
+      "قط",
+      "هِرّ",
+      "هر"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-029",
+   "global_no": 134,
+   "prompt_lang": "ur",
+   "prompt": "خرگوش",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Rabbit / Hare",
+      "Rabbit",
+      "Hare"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "أَرْنَب",
+      "أرنب"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-030",
+   "global_no": 135,
+   "prompt_lang": "ur",
+   "prompt": "گلہری",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Squirrel"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "سِنْجَاب",
+      "سنجاب"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-031",
+   "global_no": 136,
+   "prompt_lang": "ur",
+   "prompt": "چوہا",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Rat / Mouse",
+      "Rat",
+      "Mouse"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "جُرَذ",
+      "جرذ",
+      "فَأْر",
+      "فأر"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-032",
+   "global_no": 137,
+   "prompt_lang": "ur",
+   "prompt": "نیولا",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Mongoose"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "نِمْس",
+      "نمس"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-033",
+   "global_no": 138,
+   "prompt_lang": "ur",
+   "prompt": "سیاہی",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Porcupine"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "قُنْفُذ",
+      "قنفذ",
+      "شَيْهَم",
+      "شيهم"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-034",
+   "global_no": 139,
+   "prompt_lang": "ur",
+   "prompt": "چمگادڑ",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Bat"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "خُفَّاش",
+      "خفاش",
+      "وَطْوَاط",
+      "وطواط"
+     ]
+    }
+   ]
+  },
+  {
+   "ref": "animals_birds-035",
+   "global_no": 140,
+   "prompt_lang": "ur",
+   "prompt": "کنگارو",
+   "answers": [
+    {
+     "lang": "en",
+     "label": "English",
+     "accept": [
+      "Kangaroo"
+     ]
+    },
+    {
+     "lang": "ar",
+     "label": "Arabic",
+     "accept": [
+      "كَنْغَر",
+      "كنغر"
+     ]
+    }
+   ]
+  }
+ ]
+}
